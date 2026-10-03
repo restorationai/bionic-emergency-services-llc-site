@@ -16,6 +16,7 @@ faq: [{"question": "How long can water sit before it causes mold damage?", "answ
 published_at: "2026-09-29"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Shane Dodson"
 ---
 Water damage gets worse by the hour, not the day. In the first 24 hours after a pipe bursts, a water heater fails, or storm water gets into your home, your job is to stop the source, protect yourself from electrical and structural hazards, remove as much standing water as you can, and start documenting everything for your insurance claim. The faster air starts moving through the affected area, the better your odds of avoiding mold, warped flooring, and drywall that has to be torn out instead of dried and repaired.
 

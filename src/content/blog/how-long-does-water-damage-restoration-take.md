@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if my walls or floors are actually dry, or jus
 published_at: "2026-09-11"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Shane Dodson"
 ---
 Most water damage restoration projects take between three and seven days for the drying and mitigation phase, with full repairs (drywall, flooring, paint) adding another one to four weeks depending on how much material needs to be replaced. A small bathroom leak caught early might be fully resolved in under a week. A whole first floor affected by a burst pipe, with cabinets, baseboards, and flooring torn out, can stretch past a month once you factor in permitting, material lead times, and insurance approvals. The honest answer is: it depends on how much water got in, what it touched, and how fast extraction started.
 

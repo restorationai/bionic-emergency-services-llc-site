@@ -16,6 +16,7 @@ faq: [{"question": "How much does a restoration company usually charge for water
 published_at: "2026-09-24"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Shane Dodson"
 ---
 If you're searching for how to choose a restoration company, you're probably staring at water on the floor, a scorched wall, or a musty smell that won't go away, and you need an answer faster than a sales pitch. The short version: verify the company documents everything for your insurance claim, ask what drying or cleaning standard they follow, get the scope of work in writing before signing anything, and never let anyone pressure you into an on-the-spot contract. A legitimate restoration company explains the process, not just the price.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff valve?", "answer": "In m
 published_at: "2026-09-17"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Shane Dodson"
 ---
 **Pipe burst and water is spreading fast?** Call now for emergency service at (713) 338-2424. Shut off your main water valve first, then work through the steps below while you wait.
 

@@ -16,6 +16,7 @@ faq: [{"question": "Does insurance cover a slow leak under the sink that I didn'
 published_at: "2026-09-15"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Shane Dodson"
 ---
 Homeowners insurance generally covers water damage when it happens suddenly and accidentally, like a pipe that bursts overnight or a washing machine hose that fails. It typically does not cover damage from gradual leaks, poor maintenance, or flooding from an outside source, which is a separate policy altogether. The distinction between "sudden" and "gradual" is the single biggest factor an adjuster will weigh, and it's worth understanding before you ever need to file a claim.
 

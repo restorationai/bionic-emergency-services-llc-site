@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow if the water damage was from clean water, like
 published_at: "2026-09-24"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Shane Dodson"
 ---
 Mold can begin colonizing wet building materials in as little as 24 to 48 hours after water exposure, and visible growth often appears within 3 to 5 days if the area stays damp. That window is shorter in Houston than in drier climates because the ambient humidity here is already high for much of the year, so wet drywall, subfloor, or insulation doesn't get the chance to dry out on its own the way it might in an arid region. If a leak or flood happened more than a day or two ago and the area is still damp, there's a real chance mold has already started, even if you can't see or smell it yet.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How fast does mold actually grow after a leak?", "answer": "
 published_at: "2026-09-19"
 services: ["mold-remediation"]
 rendered: true
+author: "Shane Dodson"
 ---
 If your house smells musty in one room, a stain keeps coming back after you clean it, or someone in the house has started coughing more at home than anywhere else, you likely have mold growing somewhere you can't see it. Hidden mold usually hides behind walls, under flooring, inside HVAC ducts, or in crawlspaces, anywhere moisture has been sitting quietly after a leak, a flood, or just Houston's humidity working on a poorly ventilated space. The fix starts with finding the moisture source, not just the mold. Here's how to recognize the signs, what to do first, and when the problem is bigger than a bottle of cleaner can handle.
 

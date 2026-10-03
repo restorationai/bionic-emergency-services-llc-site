@@ -16,6 +16,7 @@ faq: [{"question": "How long does smoke odor last after a fire?", "answer": "Wit
 published_at: "2026-09-26"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Shane Dodson"
 ---
 When a fire is out, the damage is only half visible. The flames may have only touched one room, but smoke, soot, and the water used to extinguish the fire travel through the entire structure, settling into drywall, insulation, ductwork, and anything porous. Understanding how professional fire damage restoration actually works, from the first walkthrough to the final odor check, helps you make better decisions in the first 48 hours, when the choices you make affect how much of your home or business can be saved.
 

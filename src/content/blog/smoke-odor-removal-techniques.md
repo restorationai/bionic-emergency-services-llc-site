@@ -16,6 +16,7 @@ faq: [{"question": "How long does smoke odor removal usually take?", "answer": "
 published_at: "2026-09-18"
 services: ["smoke-damage-restoration", "fire-damage-restoration"]
 rendered: true
+author: "Shane Dodson"
 ---
 Smoke odor removal works because professionals treat it as a chemistry problem, not a cleaning problem. Smoke particles are microscopic and acidic, and they bond to porous surfaces, drywall, insulation, fabric, even wood framing, within hours of a fire. Febreze and open windows mask the smell temporarily because they don't touch what's actually causing it: residue embedded below the surface. Professional odor removal uses thermal fogging, ozone or hydroxyl treatment, and targeted cleaning of HVAC ductwork to reach the particles that DIY methods never touch. That's the whole difference: DIY treats the air in the room. Professionals treat the materials holding the smell.
 

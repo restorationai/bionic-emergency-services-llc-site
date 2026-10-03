@@ -16,6 +16,7 @@ faq: [{"question": "How much does a DIY mold test kit cost compared to a profess
 published_at: "2026-09-19"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Shane Dodson"
 ---
 If you're smelling something musty or spotting dark speckles on a wall, the honest answer is: DIY test kits can tell you mold spores are present in the air or on a surface, but they can't tell you what species you're dealing with, how extensive the growth is, or whether it's hiding behind the drywall you're staring at. A professional inspection uses moisture meters, borescopes, and lab-analyzed samples to map the actual scope of the problem. For a quick gut check, a kit is fine. For anything tied to a past leak, a renovation, or a health concern, a pro inspection is the only way to get a real answer.
 

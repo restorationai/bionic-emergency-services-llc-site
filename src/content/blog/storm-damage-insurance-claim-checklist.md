@@ -16,6 +16,7 @@ faq: [{"question": "Do I have to get my insurance company's permission before ma
 published_at: "2026-09-19"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Shane Dodson"
 ---
 If a storm just rolled through and you're staring at a damaged roof, a flooded garage, or water stains spreading across your ceiling, the single most important thing to do before you pick up the phone is document everything. Insurers process claims based on evidence, not just your description of what happened. Photograph the damage from multiple angles, write down the date and time the storm hit, and hold off on major cleanup until you've captured what the loss actually looks like. The steps below walk through what to gather, what to avoid saying or doing, and when the damage is serious enough to bring in a restoration crew before the adjuster even arrives.
 

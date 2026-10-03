@@ -16,6 +16,7 @@ faq: [{"question": "Can I tell if mold is toxic just by looking at it?", "answer
 published_at: "2026-09-19"
 services: ["mold-remediation"]
 rendered: true
+author: "Shane Dodson"
 ---
 ## There's No Visual Test That Tells You What Species of Mold You're Looking At
 
