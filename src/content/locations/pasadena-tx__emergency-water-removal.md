@@ -17,7 +17,7 @@ area_slug: "pasadena-tx"
 service_slug: "emergency-water-removal"
 city: "Pasadena"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water pooling in your Pasadena home after a Gulf downpour?** Call now for emergency water removal and cleanup before the slab, drywall, or flooring underneath starts absorbing moisture it won't give back easily. Pasadena's low elevation near the Houston Ship Channel means heavy rain backs up fast along Spencer Highway and Red Bluff, and standing water in a garage or first floor can turn into a saturated subfloor within hours. The sooner extraction starts, the less material you lose.

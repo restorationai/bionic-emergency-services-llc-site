@@ -17,7 +17,7 @@ area_slug: "spring-tx"
 service_slug: "mold-remediation"
 city: "Spring"
 state: "TX"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Mold doesn't wait for a convenient season in Spring. Between the humidity rolling off Spring Creek and Cypress Creek and the slow-draining clay soil under much of Harris County, a slow roof leak or an AC condensation line that's been dripping into a wall cavity for a few weeks is often already a colonized problem by the time anyone notices a musty smell near a baseboard. We handle mold remediation for homes and small commercial properties throughout Spring, from the older frame houses near Old Town Spring to newer builds out toward Gleannloch Farms, and we size the containment and air scrubbing to match what's actually growing, not a generic checklist.

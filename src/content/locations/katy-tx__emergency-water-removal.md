@@ -17,7 +17,7 @@ area_slug: "katy-tx"
 service_slug: "emergency-water-removal"
 city: "Katy"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water in your Katy home or business right now?** Call (713) 338-2424 for emergency water removal and cleanup. Katy's flat clay soil and its proximity to the Addicks and Barker reservoirs mean standing water doesn't drain the way it might in a hillier part of Houston, it sits against slab foundations and works its way into baseboards, carpet pad, and drywall faster than most homeowners expect. Whether it's a slab leak in Cinco Ranch or storm intrusion near Old Katy, the clock starts the moment water stops moving.

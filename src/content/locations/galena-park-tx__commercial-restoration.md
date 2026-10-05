@@ -17,7 +17,7 @@ area_slug: "galena-park-tx"
 service_slug: "commercial-restoration"
 city: "Galena Park"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 **Commercial water or fire damage in Galena Park?** Call now for emergency service. BIONIC Emergency Services documents the loss for your insurer, isolates the affected area, and gets extraction or board-up equipment moving so your business keeps operating.

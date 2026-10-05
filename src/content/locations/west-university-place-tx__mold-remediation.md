@@ -17,7 +17,7 @@ area_slug: "west-university-place-tx"
 service_slug: "mold-remediation"
 city: "West University Place"
 state: "TX"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Mold remediation in West University Place almost always starts the same way: a homeowner notices a musty smell near a bathroom or utility closet weeks after a slow leak they thought they'd already fixed. Between the Gulf Coast humidity and the slab-on-grade construction common throughout this part of Harris County, moisture that gets trapped behind drywall or under cabinetry has very little chance to dry on its own, and colonization can begin within 24 to 48 hours of a sustained leak.

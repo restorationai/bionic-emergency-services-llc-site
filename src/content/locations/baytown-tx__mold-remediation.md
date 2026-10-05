@@ -17,7 +17,7 @@ area_slug: "baytown-tx"
 service_slug: "mold-remediation"
 city: "Baytown"
 state: "TX"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Gulf humidity doesn't stay outside in Baytown. It rides through attic vents, settles into AC condensation lines, and seeps into slab edges near Goose Creek and the Galveston Bay shoreline, giving mold a head start that drier inland cities don't deal with. If you've found a musty smell behind a baseboard or dark spotting creeping across a bathroom ceiling, the moisture source is usually still active, and waiting even a week lets a small colony spread into wall cavities and insulation.

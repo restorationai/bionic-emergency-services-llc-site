@@ -17,7 +17,7 @@ area_slug: "missouri-city-tx"
 service_slug: "emergency-water-removal"
 city: "Missouri City"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Missouri City home or business?** Call (713) 338-2424 for emergency water removal and cleanup. Fort Bend County's clay-heavy soil swells and contracts with every rain cycle, which means a slab leak in a Quail Valley ranch home or a supply line failure in a Hunters Glen split-level can send water across flooring for hours before anyone notices the baseboards have gone soft. We extract the water, then dry the structure the way the IICRC S500 standard calls for, not just the way it looks dry on the surface.

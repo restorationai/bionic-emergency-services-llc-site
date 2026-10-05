@@ -17,7 +17,7 @@ area_slug: "galena-park-tx"
 service_slug: "emergency-water-removal"
 city: "Galena Park"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Galena Park?** Call now for emergency service at (713) 338-2424. Galena Park's flat terrain and heavy clay soil mean rainwater and pipe failures don't drain the way they would on higher, sandier ground farther west, so standing water tends to linger under flooring and against slab foundations until it's physically extracted. Whether the source is a burst supply line, a failed water heater, or street flooding backing up through a floor drain, the longer water sits, the more it spreads into wall cavities and subflooring.

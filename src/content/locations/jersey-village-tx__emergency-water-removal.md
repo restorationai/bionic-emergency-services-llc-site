@@ -17,7 +17,7 @@ area_slug: "jersey-village-tx"
 service_slug: "emergency-water-removal"
 city: "Jersey Village"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Jersey Village?** Call now for emergency service at (713) 338-2424. Standing water on a slab foundation does not wait for a convenient hour, and the longer it sits against drywall and baseboards near the Addicks Reservoir floodplain, the faster it works its way into wall cavities and subfloor.

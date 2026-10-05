@@ -17,7 +17,7 @@ area_slug: "atascocita-tx"
 service_slug: "mold-remediation"
 city: "Atascocita"
 state: "TX"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug bionic-emergency-services-llc` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

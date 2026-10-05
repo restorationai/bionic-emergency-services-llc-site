@@ -17,7 +17,7 @@ area_slug: "humble-tx"
 service_slug: "emergency-water-removal"
 city: "Humble"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water in your Humble home or business right now?** Call (713) 338-2424 for emergency water removal and cleanup. Humble's heavy clay soils and its position near Lake Houston and the San Jacinto River mean a burst supply line or an overflowing tub doesn't just sit on the surface, it tracks fast into slab foundations and under baseboards before most homeowners even notice the carpet is soaked.

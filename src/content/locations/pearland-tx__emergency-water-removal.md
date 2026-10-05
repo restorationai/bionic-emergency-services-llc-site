@@ -17,7 +17,7 @@ area_slug: "pearland-tx"
 service_slug: "emergency-water-removal"
 city: "Pearland"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Pearland home or business?** Call now for emergency water removal and cleanup before it spreads into walls, flooring, and furniture. Pearland's flat terrain and heavy clay soil mean water from a burst pipe, roof leak, or Clear Creek overflow doesn't drain the way it would in hillier parts of Houston, it sits, it wicks upward through drywall and baseboards, and it finds its way under slab foundations common throughout the city. The longer it sits, the more it costs to fix.

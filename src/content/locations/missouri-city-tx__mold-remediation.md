@@ -17,7 +17,7 @@ area_slug: "missouri-city-tx"
 service_slug: "mold-remediation"
 city: "Missouri City"
 state: "TX"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Mold doesn't wait for a convenient season in Missouri City. Between Fort Bend County's humidity and the clay-heavy soil that shifts under slab foundations from Quail Valley to Sienna, moisture finds its way into walls and subfloors more often than most homeowners expect. By the time you notice a musty smell near a baseboard or a dark ring creeping across drywall, colonization has usually been underway for days. Mold remediation here means tracking the moisture source first, not just treating the stain.

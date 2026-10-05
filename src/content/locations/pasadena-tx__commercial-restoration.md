@@ -17,7 +17,7 @@ area_slug: "pasadena-tx"
 service_slug: "commercial-restoration"
 city: "Pasadena"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 **Commercial water damage or fire damage emergency at your Pasadena business?** Call now for emergency service. BIONIC Emergency Services works with property managers, retail owners, and office tenants across Pasadena, where Gulf humidity, slab foundations, and heavy summer downpours create a different set of commercial restoration problems than you'd see further inland. A flooded break room on Spencer Highway doesn't behave like a flooded break room in a dry climate, and we plan around that.

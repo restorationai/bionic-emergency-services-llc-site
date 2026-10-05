@@ -17,7 +17,7 @@ area_slug: "katy-tx"
 service_slug: "mold-remediation"
 city: "Katy"
 state: "TX"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Katy's humidity sits heavy for most of the year, and when a slab foundation shifts or a supply line weeps behind drywall, mold doesn't wait for anyone to notice the smell. Mold remediation in Katy means working around slab-on-grade construction, gulf coast humidity that keeps materials damp long after a leak is fixed, and neighborhoods built in waves since the 1970s, each with different wall assemblies and insulation choices. A musty closet in Cinco Ranch and a water-stained ceiling in Old Katy can both trace back to the same root cause: moisture that sat for a few days too long.

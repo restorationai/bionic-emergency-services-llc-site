@@ -17,7 +17,7 @@ area_slug: "sugar-land-tx"
 service_slug: "emergency-water-removal"
 city: "Sugar Land"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Sugar Land home or business right now?** Call (713) 338-2424 for emergency water removal and cleanup. We answer calls promptly and get extraction equipment moving toward Fort Bend County as soon as the job is confirmed.

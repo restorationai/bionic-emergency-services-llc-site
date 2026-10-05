@@ -17,7 +17,7 @@ area_slug: "tomball-tx"
 service_slug: "emergency-water-removal"
 city: "Tomball"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Tomball?** Call now for emergency service. Gulf Coast humidity turns a few inches of standing water into a mold problem fast, and the clay-heavy soil under most Tomball slabs means water from a burst pipe or storm backup doesn't drain away on its own, it sits against the foundation and works its way back indoors. Our IICRC-trained crews handle extraction, drying, and cleanup for homes and businesses across Tomball.

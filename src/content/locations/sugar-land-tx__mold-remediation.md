@@ -17,7 +17,7 @@ area_slug: "sugar-land-tx"
 service_slug: "mold-remediation"
 city: "Sugar Land"
 state: "TX"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Gulf Coast humidity sits heavy over Sugar Land most of the year, and that moisture finds its way into places homeowners rarely check: behind baseboards in a Telfair townhome, inside a crawlspace off New Territory, under cabinetry in a Sugar Creek kitchen that backed up last spring. Mold remediation here isn't just about scrubbing a visible patch, it's about tracking where Fort Bend County's humidity and clay soil keep feeding a problem that started with a leak you may have already fixed.

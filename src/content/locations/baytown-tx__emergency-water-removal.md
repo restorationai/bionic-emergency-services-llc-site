@@ -17,7 +17,7 @@ area_slug: "baytown-tx"
 service_slug: "emergency-water-removal"
 city: "Baytown"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water pooling under your floors in Baytown right now?** Call (713) 338-2424 for emergency water removal and cleanup. Between Galveston Bay humidity, gulf storm surges, and the clay-heavy soil that runs from Goose Creek out past Pelly, standing water in a Baytown home rarely stays confined to one room for long. It travels along slab seams, wicks up into baseboards, and settles into subfloor long before most homeowners notice the smell.

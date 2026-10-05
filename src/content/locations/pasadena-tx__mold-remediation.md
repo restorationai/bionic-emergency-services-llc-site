@@ -17,7 +17,7 @@ area_slug: "pasadena-tx"
 service_slug: "mold-remediation"
 city: "Pasadena"
 state: "TX"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Mold doesn't wait for a convenient time to show up, and in Pasadena it rarely shows up alone. Most calls we get for mold remediation trace back to a water intrusion from weeks or months earlier, a slow roof leak, a slab home with plumbing that seeped under the flooring, humidity that never fully left the attic. If you're seeing dark staining along a baseboard near Red Bluff or smelling something musty in a Spencer Highway corridor rental, the organism causing it has likely had a head start.

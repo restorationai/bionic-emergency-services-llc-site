@@ -17,7 +17,7 @@ area_slug: "galena-park-tx"
 service_slug: "mold-remediation"
 city: "Galena Park"
 state: "TX"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Galena Park sits tight against the Houston Ship Channel, and that geography shapes how mold behaves in local homes and small commercial buildings. Between Gulf Coast humidity, industrial moisture in the air, and a housing stock built largely in the decades after World War II, mold colonies here often start behind walls or under flooring long before a musty smell reaches the living room. Mold remediation in Galena Park means dealing with that head start, not just the surface growth you can see.

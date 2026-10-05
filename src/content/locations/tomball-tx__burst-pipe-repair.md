@@ -17,7 +17,7 @@ area_slug: "tomball-tx"
 service_slug: "burst-pipe-repair"
 city: "Tomball"
 state: "TX"
-service_display: "burst-pipe-repair"
+service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
 **Burst pipe in Tomball? Call now for emergency service.** A cracked line under the slab or a split copper fitting in the attic doesn't wait for business hours, and the water doesn't stop moving until someone shuts the main and starts extraction. Tomball's expansive clay soil and slab-on-grade construction mean a pipe break often travels further under flooring before it ever shows as a stain, which is why fast assessment matters as much as fast cleanup.

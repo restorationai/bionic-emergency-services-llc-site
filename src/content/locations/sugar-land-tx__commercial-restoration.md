@@ -17,7 +17,7 @@ area_slug: "sugar-land-tx"
 service_slug: "commercial-restoration"
 city: "Sugar Land"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 **Commercial water or fire damage emergency in Sugar Land?** Call now for emergency service. Our technicians carry IICRC water restoration and structural drying training onto every commercial job, which matters here: the office parks near Sugar Land Town Square and the retail strips along Highway 6 mix newer slab construction with plumbing retrofits that are now two decades old, and a burst supply line behind a drop ceiling can soak a suite long before anyone notices the stain on the tile below.

@@ -17,7 +17,7 @@ area_slug: "the-woodlands-tx"
 service_slug: "emergency-water-removal"
 city: "The Woodlands"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your The Woodlands home after a storm?** Call now for emergency water removal and cleanup, we don't make you wait while carpet pads soak through and baseboards wick moisture into the drywall. Between the pine canopy that shades most villages and the clay-heavy soil underneath them, water from a burst supply line or an overwhelmed yard drain behaves differently here than it does on the coastal flats closer to Houston, and that changes how fast extraction needs to happen.

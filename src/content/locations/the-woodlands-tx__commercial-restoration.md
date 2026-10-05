@@ -17,7 +17,7 @@ area_slug: "the-woodlands-tx"
 service_slug: "commercial-restoration"
 city: "The Woodlands"
 state: "TX"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 **Commercial water or fire damage in The Woodlands?** Call now for emergency service at (713) 338-2424. The office parks ringing Lake Woodlands, the retail storefronts along Market Street, and the medical and professional suites tucked into Panther Creek and Sterling Ridge all share one problem: a burst supply line or an electrical fire doesn't just damage a building, it shuts down revenue the moment the doors close. Commercial restoration here has to move on a business's clock, not a homeowner's.
