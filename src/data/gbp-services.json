@@ -2,12 +2,38 @@
   "burst-pipe-repair": [
     "Broken, Frozen, & Burst Pipe Repair"
   ],
+  "emergency-water-removal": [
+    "Standing Water Removal"
+  ],
+  "mold-inspection-testing": [
+    "Mold Inspection"
+  ],
   "mold-remediation": [
-    "Mold Removal"
+    "Attic Mold Removal",
+    "Basement Mold Removal",
+    "Bathroom Mold Removal",
+    "Black Mold Removal",
+    "Crawl Space Mold Removal",
+    "Emergency Mold Removal",
+    "Mold Removal Behind Walls"
   ],
   "reconstruction": [
     "Complete Reconstruction",
     "Damage Reconstruction",
     "Home Reconstruction"
+  ],
+  "sewage-cleanup": [
+    "Basement Sewage Cleanup",
+    "Category 3 Water Cleanup"
+  ],
+  "smoke-damage-restoration": [
+    "Soot Removal"
+  ],
+  "storm-damage-restoration": [
+    "Hurricane Damage Restoration"
+  ],
+  "water-damage-restoration": [
+    "Water Mitigation",
+    "Wet Carpet Drying"
   ]
 }
