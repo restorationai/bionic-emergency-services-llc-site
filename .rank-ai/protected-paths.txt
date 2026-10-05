@@ -1,0 +1,3 @@
+# Per-site design edits a --refresh-design must not flatten
+# Santino 2026-10-05: no 'All our services in {city}' list
+src/components/ui/ServicesStrip.astro
