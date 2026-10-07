@@ -52,7 +52,7 @@ Typical costs vary based on how accessible the suspected leak is and whether spe
 
 ## Seasonal & regional considerations
 
-Houston's clay soil expands and contracts significantly with seasonal moisture swings, and that movement is one of the more common contributors to slab leaks in the area, particularly in homes with copper supply lines run under the foundation. Hot, humid summers also mean a hidden water leak inside a wall cavity can turn into a mold concern faster than it would in a drier climate, so catching it early matters more here than it does in some other parts of the country.
+Houston's clay soil expands and contracts significantly with seasonal moisture swings, and that movement is one of the more common contributors to slab leaks in the area, particularly in homes with copper supply lines run under the foundation. Hot, humid summers also mean a hidden water leak inside a wall cavity can turn into a rot and odor concern faster than it would in a drier climate, so catching it early matters more here than it does in some other parts of the country.
 
 ## Service area
 

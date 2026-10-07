@@ -28,7 +28,7 @@ Katy sits on heavy gumbo clay that expands and contracts with moisture swings, w
 
 ## Our Water Removal Process in Katy
 
-We start by locating the source and shutting it off when possible, then move into extraction with truck-mounted and portable pumps depending on how much standing water we're dealing with. Carpet, pad, and baseboards usually come out when saturation is heavy, since Katy's humidity makes it hard for those materials to dry in place without inviting mold. Our crews document moisture readings on framing and subfloor as they go, because in slab-on-grade homes common throughout Firethorne and Grand Lakes, surface-dry readings can hide moisture still trapped under vinyl plank or tile. We dry structures to the IICRC S500 standard and track readings daily until materials hit a stable baseline, not just until they feel dry to the touch.
+We start by locating the source and shutting it off when possible, then move into extraction with truck-mounted and portable pumps depending on how much standing water we're dealing with. Carpet, pad, and baseboards usually come out when saturation is heavy, since Katy's humidity makes it hard for those materials to dry in place without inviting rot and odor. Our crews document moisture readings on framing and subfloor as they go, because in slab-on-grade homes common throughout Firethorne and Grand Lakes, surface-dry readings can hide moisture still trapped under vinyl plank or tile. We dry structures to the IICRC S500 standard and track readings daily until materials hit a stable baseline, not just until they feel dry to the touch.
 
 ## Reaching Katy from Houston
 

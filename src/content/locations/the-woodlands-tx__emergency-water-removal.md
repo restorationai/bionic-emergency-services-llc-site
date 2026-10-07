@@ -42,6 +42,6 @@ Most villages fall under The Woodlands Township's residential standards, and sev
 
 ## Local note
 
-Homes backing onto the greenbelt and pond system that runs through much of the township, particularly near Lake Woodlands and the Waterway corridor, sit closer to the water table than residents often realize. After a hard rain, a slow weep through a slab expansion joint in one of these homes can look like a minor damp spot for a week before it turns into a mold concern underneath carpet pad, so we check those joints specifically on any call near ZIP 77380 or 77381 even when the visible damage looks contained.
+Homes backing onto the greenbelt and pond system that runs through much of the township, particularly near Lake Woodlands and the Waterway corridor, sit closer to the water table than residents often realize. After a hard rain, a slow weep through a slab expansion joint in one of these homes can look like a minor damp spot for a week before it turns into a lingering moisture problem underneath carpet pad, so we check those joints specifically on any call near ZIP 77380 or 77381 even when the visible damage looks contained.
 
 If water is spreading across a floor in Creekside Park, pooling in a Sterling Ridge garage, or seeping along a baseboard anywhere in between, the clock matters more than the size of the leak. Call BIONIC Emergency Services at (713) 338-2424 for water extraction and cleanup built around how The Woodlands homes are actually built and where the water actually goes.

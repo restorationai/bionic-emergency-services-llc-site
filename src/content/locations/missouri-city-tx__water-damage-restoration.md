@@ -24,7 +24,7 @@ rendered: true
 
 ## Why Missouri City Properties See Water Damage Issues
 
-Fort Bend County sits on expansive clay soils that swell and contract with every wet-dry cycle. In older sections of Quail Valley and Hunters Glen, that movement stresses the copper and cast-iron supply lines running under slab foundations, and a hairline fracture can leak for weeks before a water bill spike or a warm spot on the floor gives it away. Newer slab-on-grade construction around Sienna and Riverstone isn't immune either: irrigation systems, retention pond overflow during heavy Gulf Coast storms, and tight lot drainage near Lake Olympia all push water toward foundations that were poured with minimal crawl space. Add in Missouri City's humid subtropical summers, and any water that gets into wall cavities or subflooring has a narrow window before it starts feeding mold growth.
+Fort Bend County sits on expansive clay soils that swell and contract with every wet-dry cycle. In older sections of Quail Valley and Hunters Glen, that movement stresses the copper and cast-iron supply lines running under slab foundations, and a hairline fracture can leak for weeks before a water bill spike or a warm spot on the floor gives it away. Newer slab-on-grade construction around Sienna and Riverstone isn't immune either: irrigation systems, retention pond overflow during heavy Gulf Coast storms, and tight lot drainage near Lake Olympia all push water toward foundations that were poured with minimal crawl space. Add in Missouri City's humid subtropical summers, and any water that gets into wall cavities or subflooring has a narrow window before it starts causing secondary damage.
 
 ## Our Water Damage Restoration Process in Missouri City
 

@@ -21,7 +21,7 @@ rendered: true
 
 ## What Emergency Water Cleanup actually involves
 
-Emergency water cleanup is the first phase of recovery after any water intrusion, whether it's a clean supply line break, an appliance failure, or floodwater from heavy rain. It covers locating the water, pulling it out of the structure, and getting the drying process started before mold colonization or further structural damage sets in. This is different from mold remediation or reconstruction: it's the rapid, time-sensitive stage that happens in the first hours and days, using truck-mounted or portable extraction units, air movers, and dehumidifiers sized to the affected square footage. For Houston homes, this often means dealing with slab foundations where water travels under cabinetry and through wall cavities in ways that aren't visible at the surface, or pier-and-beam homes in older neighborhoods where water pools under the structure and needs to be addressed from below as well as above.
+Emergency water cleanup is the first phase of recovery after any water intrusion, whether it's a clean supply line break, an appliance failure, or floodwater from heavy rain. It covers locating the water, pulling it out of the structure, and getting the drying process started before further structural damage sets in. This is different from reconstruction: it's the rapid, time-sensitive stage that happens in the first hours and days, using truck-mounted or portable extraction units, air movers, and dehumidifiers sized to the affected square footage. For Houston homes, this often means dealing with slab foundations where water travels under cabinetry and through wall cavities in ways that aren't visible at the surface, or pier-and-beam homes in older neighborhoods where water pools under the structure and needs to be addressed from below as well as above.
 
 ## Our process
 
@@ -33,7 +33,7 @@ Emergency water cleanup is the first phase of recovery after any water intrusion
 
 ## What separates a good water cleanup response from a bad one
 
-The most common mistake in water cleanup is declaring a space "dry" based on surface appearance instead of actual moisture readings. Carpet can feel dry within hours while the pad and subfloor underneath stay saturated for days, and drywall can look fine while the back side stays wet against the stud. A rushed job pulls out the dehumidifiers too early, and the homeowner is dealing with a mold problem three weeks later.
+The most common mistake in water cleanup is declaring a space "dry" based on surface appearance instead of actual moisture readings. Carpet can feel dry within hours while the pad and subfloor underneath stay saturated for days, and drywall can look fine while the back side stays wet against the stud. A rushed job pulls out the dehumidifiers too early, and the homeowner is dealing with a moisture problem three weeks later.
 
 Adjusters and experienced technicians both look for the same things: documented moisture readings at the start and throughout the job, photos of the affected areas before demolition of any materials, and a drying log that shows progress toward dry standard rather than a flat "we dried it" statement. Category 3 (contaminated) water also requires different handling entirely, including removal of porous materials that can't be sanitized, which is a decision that needs to be made correctly the first time, not revisited after materials are already drying in place.
 

@@ -2,7 +2,7 @@
 archetype: "services-hub"
 title: "Restoration Services in Houston | BIONIC Emergency Services LLC"
 h1: "Our Restoration Services"
-meta_description: "Full-service restoration in Houston: water, fire, mold, storm, biohazard, and commercial restoration. 24/7 response. Call (713) 338-2424."
+meta_description: "Full-service restoration in Houston: water, fire, storm, biohazard, and commercial restoration. 24/7 response. Call (713) 338-2424."
 primary_keyword: "restoration services houston"
 secondary_keywords: ["damage restoration services", "property restoration services", "disaster restoration"]
 search_intent: "local_commercial"
@@ -10,7 +10,7 @@ priority: 4.0
 plan_hash: "17924756ce089b34"
 generated_at: "2026-10-02T00:25:15.921734+00:00"
 manual_override: false
-internal_links: ["/", "/services/fire-damage-restoration/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/services/commercial-restoration/", "/services/emergency-water-removal/", "/services/flood-damage-restoration/", "/services/reconstruction/", "/services/sewage-cleanup/", "/services/smoke-damage-restoration/", "/services/storm-damage-restoration/", "/services/water-cleanup/", "/services/basement-flooding-cleanup/", "/services/burst-pipe-repair/", "/services/ceiling-water-damage-repair/", "/services/general-contracting/", "/services/large-loss-response/", "/services/mold-inspection-testing/", "/services/industrial-restoration/", "/services/water-heater-flood-cleanup/", "/services/water-leak-detection/", "/services/contents-restoration-storage/"]
+internal_links: ["/", "/services/fire-damage-restoration/", "/services/water-damage-restoration/", "/services/commercial-restoration/", "/services/emergency-water-removal/", "/services/flood-damage-restoration/", "/services/reconstruction/", "/services/sewage-cleanup/", "/services/smoke-damage-restoration/", "/services/storm-damage-restoration/", "/services/water-cleanup/", "/services/basement-flooding-cleanup/", "/services/burst-pipe-repair/", "/services/ceiling-water-damage-repair/", "/services/general-contracting/", "/services/large-loss-response/", "/services/industrial-restoration/", "/services/water-heater-flood-cleanup/", "/services/water-leak-detection/", "/services/contents-restoration-storage/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services"}]
 faq: [{"question": "Do you work on commercial properties or just homes?", "answer": "Both. We handle single-family homes, multi-family buildings, and commercial properties, including offices, retail spaces, and apartment complexes managed by property management companies."}, {"question": "What's the difference between mitigation and reconstruction?", "answer": "Mitigation is the immediate response: extracting water, drying structural materials, removing smoke residue, or securing a damaged opening to stop the loss from getting worse. Reconstruction is the rebuild phase that follows, replacing drywall, flooring, and finishes to bring the property back to its condition before the damage occurred."}, {"question": "Do you handle insurance claims for all of these services?", "answer": "Yes, we document the damage with photos and detailed scope notes for mitigation and reconstruction work alike, and we work with most major carriers throughout the claims process. Bring us in early and that documentation starts from the first day on site."}]
 rendered: true
@@ -27,7 +27,7 @@ Once a structure is dry, demolished materials, or stabilized after storm or fire
 
 ## Specialty services
 
-Not every call starts with standing water or visible flames. Mold inspection addresses the conditions that show up after a slow leak or chronic humidity, the kind of growth that can establish on wet drywall or framing within a day or two of unresolved moisture. Odor removal tackles smoke, mildew, or biohazard odor that lingers after the visible damage is gone. Emergency board-up and tarping secures a property against weather and intrusion when a window, door, or roof section has failed, buying time until permanent repairs can begin.
+Not every call starts with standing water or visible flames. Odor removal tackles smoke, mildew, or biohazard odor that lingers after the visible damage is gone. Emergency board-up and tarping secures a property against weather and intrusion when a window, door, or roof section has failed, buying time until permanent repairs can begin.
 
 ## One call, start to finish
 

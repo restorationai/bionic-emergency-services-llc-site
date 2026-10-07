@@ -24,7 +24,7 @@ rendered: true
 
 ## Why Pasadena Properties See Water Damage Issues
 
-Much of Pasadena sits on heavy clay soil that drains slowly, so when a tropical system or a fast-moving summer storm dumps several inches in an afternoon, water has nowhere to go but toward the nearest low point, often a driveway, a garage slab, or a ground-floor bedroom near Downtown Pasadena. Add in the humidity that rolls off the Ship Channel, and any water that isn't pulled out quickly starts feeding mold growth within a day or two instead of the longer window drier climates allow. Homes built before the 1980s in neighborhoods around the Fairmont Parkway area often have slab foundations with plumbing runs embedded in the concrete, so a slow leak can saturate flooring for weeks before anyone notices a stain or a soft spot.
+Much of Pasadena sits on heavy clay soil that drains slowly, so when a tropical system or a fast-moving summer storm dumps several inches in an afternoon, water has nowhere to go but toward the nearest low point, often a driveway, a garage slab, or a ground-floor bedroom near Downtown Pasadena. Add in the humidity that rolls off the Ship Channel, and any water that isn't pulled out quickly starts causing secondary damage within a day or two instead of the longer window drier climates allow. Homes built before the 1980s in neighborhoods around the Fairmont Parkway area often have slab foundations with plumbing runs embedded in the concrete, so a slow leak can saturate flooring for weeks before anyone notices a stain or a soft spot.
 
 ## Our Water Removal Process in Pasadena
 

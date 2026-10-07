@@ -10,7 +10,7 @@ priority: 6.3
 plan_hash: "ddcfca0898e04ebb"
 generated_at: "2026-10-05T01:13:05.984125+00:00"
 manual_override: false
-internal_links: ["/services/water-cleanup/", "/service-areas/cloverleaf-tx/", "/service-areas/cloverleaf-tx/mold-remediation/", "/service-areas/cloverleaf-tx/water-damage-restoration/", "/service-areas/humble-tx/water-cleanup/", "/service-areas/jersey-village-tx/water-cleanup/", "/contact/"]
+internal_links: ["/services/water-cleanup/", "/service-areas/cloverleaf-tx/", "/service-areas/cloverleaf-tx/water-damage-restoration/", "/service-areas/humble-tx/water-cleanup/", "/service-areas/jersey-village-tx/water-cleanup/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Cloverleaf", "url": "/service-areas/cloverleaf-tx/"}, {"name": "Emergency Water Cleanup"}]
 faq: []
 area_slug: "cloverleaf-tx"

@@ -24,7 +24,7 @@ rendered: true
 
 ## Why Jersey Village Properties See Water Damage
 
-Jersey Village sits inside the White Oak Bayou watershed, one of the drainage systems that carries a large share of northwest Harris County's stormwater toward downtown Houston. That means heavy rain events don't just cause localized puddling, they can back up street drainage and push water toward low-lying slabs faster than homeowners expect. Many homes in this area were built decades ago on concrete slab foundations with plumbing runs embedded in or under the slab, which makes slab leaks and supply line failures a recurring source of indoor flooding separate from storm events entirely. Add in Houston's humidity, and a wet subfloor or soaked baseboard that isn't dried quickly becomes a mold problem within 24 to 48 hours, not days.
+Jersey Village sits inside the White Oak Bayou watershed, one of the drainage systems that carries a large share of northwest Harris County's stormwater toward downtown Houston. That means heavy rain events don't just cause localized puddling, they can back up street drainage and push water toward low-lying slabs faster than homeowners expect. Many homes in this area were built decades ago on concrete slab foundations with plumbing runs embedded in or under the slab, which makes slab leaks and supply line failures a recurring source of indoor flooding separate from storm events entirely. Add in Houston's humidity, and a wet subfloor or soaked baseboard that isn't dried quickly starts causing secondary damage within 24 to 48 hours, not days.
 
 ## Our Emergency Water Cleanup Process
 

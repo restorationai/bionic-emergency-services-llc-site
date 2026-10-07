@@ -32,7 +32,7 @@ Most companies, including [BIONIC](/), handle both phases under one scope so the
 
 ## Does homeowners insurance cover flood damage in Texas?
 
-A standard Texas homeowners policy does not cover flood damage. Insurers define flood as water that rises from the ground or outside the structure, an overflowing bayou, storm surge, or heavy rain pooling against a foundation. That coverage comes from a separate policy, typically through the National Flood Insurance Program, according to the [Texas Department of Insurance](https://tdi.texas.gov/tips/when-are-water-damage-and-mold-covered-by-insurance.html).
+A standard Texas homeowners policy does not cover flood damage. Insurers define flood as water that rises from the ground or outside the structure, an overflowing bayou, storm surge, or heavy rain pooling against a foundation. That coverage comes from a separate policy, typically through the National Flood Insurance Program, according to the Texas Department of Insurance.
 
 Sudden, accidental water damage from inside the house, a burst pipe, a failed water heater, an overflowing toilet, is usually a different coverage path under a standard homeowners policy. We've laid that distinction out in more detail in [Does Homeowners Insurance Cover Water Damage?](/blog/does-homeowners-insurance-cover-water-damage/)
 
@@ -59,7 +59,7 @@ Anyone wading into standing floodwater at home should wear rubber boots and glov
 
 A house is dry when moisture meter readings in the walls, subfloor, and framing match the dry standard for that material, not when the surface looks and feels dry to the touch. Visual dryness happens days before structural materials actually release their trapped moisture.
 
-Technicians use penetrating and non-penetrating moisture meters to check behind walls and under flooring, logging readings daily and comparing them against an unaffected reference area in the same home. Drying times vary by how much material absorbed water and how long it sat before extraction started; our post on [How Long Does Water Damage Restoration Actually Take?](/blog/how-long-does-water-damage-restoration-take/) breaks down typical timelines. Closing up walls before readings stabilize is one of the most common causes of hidden mold growth after a flood.
+Technicians use penetrating and non-penetrating moisture meters to check behind walls and under flooring, logging readings daily and comparing them against an unaffected reference area in the same home. Drying times vary by how much material absorbed water and how long it sat before extraction started; our post on [How Long Does Water Damage Restoration Actually Take?](/blog/how-long-does-water-damage-restoration-take/) breaks down typical timelines. Closing up walls before readings stabilize is one of the most common causes of hidden rot and lingering odors after a flood.
 
 ## What should you do first if your Houston home floods?
 
@@ -73,4 +73,4 @@ Flood damage from a bayou overflow is not the same claim, process, or coverage a
 
 **About BIONIC Emergency Services LLC**
 
-This article was written with the BIONIC Emergency Services team, led by Shane Dodson. BIONIC has served Houston, TX since 2011, with technicians holding IICRC WRT (Water Damage Restoration) and IICRC ASD (Applied Structural Drying) certifications. The company operates 24/7 and is licensed and insured, with a 4.9 rating across 154 Google reviews. BIONIC's crews handle water damage restoration, storm damage restoration, sewage cleanup, and contents restoration and storage across Houston and surrounding communities from Meyerland to The Woodlands. [Call BIONIC Emergency Services LLC at (713) 338-2424](tel:+17133382424) for a flood damage assessment, or review service details on the [Houston service area page](/service-areas/houston-tx/).
+This article was written with the BIONIC Emergency Services team, led by Shane Dodson. BIONIC has served Houston, TX since 2011, with technicians holding IICRC WRT (Water Damage Restoration) and IICRC ASD (Applied Structural Drying) certifications. The company operates 24/7 and is insured, with a 4.9 rating across 154 Google reviews. BIONIC's crews handle water damage restoration, storm damage restoration, sewage cleanup, and contents restoration and storage across Houston and surrounding communities from Meyerland to The Woodlands. [Call BIONIC Emergency Services LLC at (713) 338-2424](tel:+17133382424) for a flood damage assessment, or review service details on the [Houston service area page](/service-areas/houston-tx/).

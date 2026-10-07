@@ -35,7 +35,7 @@ The work typically starts with sewage extraction using truck-mounted or portable
 
 ## What separates a good sewage cleanup response from a bad one
 
-The most common mistake in sewage cleanup is treating it like a standard water loss: extracting the water, running some fans, and calling it done. That approach leaves bacteria embedded in subflooring and wall cavities, which shows up later as persistent odor or a mold problem that traces straight back to the original backup. A thorough response documents the contamination category, photographs affected materials before removal, and keeps a disposal record for anything discarded, which matters both for health reasons and for insurance documentation.
+The most common mistake in sewage cleanup is treating it like a standard water loss: extracting the water, running some fans, and calling it done. That approach leaves bacteria embedded in subflooring and wall cavities, which shows up later as persistent odor or a moisture problem that traces straight back to the original backup. A thorough response documents the contamination category, photographs affected materials before removal, and keeps a disposal record for anything discarded, which matters both for health reasons and for insurance documentation.
 
 Adjusters reviewing a sewage claim look for clear evidence that contaminated porous materials were removed rather than just cleaned, that antimicrobial treatment was applied and logged, and that drying was verified with moisture readings rather than assumed. Skipping any of those steps is where claims get questioned or where a homeowner ends up with a lingering odor months later.
 

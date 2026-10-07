@@ -20,7 +20,7 @@ state: "TX"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage in a Pasadena home doesn't wait for business hours, and neither do we.** Slab foundations throughout Red Bluff and the Spencer Highway corridor sit low relative to drainage ditches that fill fast during Gulf downpours, and once water finds its way under flooring or into wall cavities, the clock on mold and structural damage starts immediately. We answer 24/7 and bring IICRC-trained technicians to extract water and begin structural drying before the damage spreads further.
+**Water damage in a Pasadena home doesn't wait for business hours, and neither do we.** Slab foundations throughout Red Bluff and the Spencer Highway corridor sit low relative to drainage ditches that fill fast during Gulf downpours, and once water finds its way under flooring or into wall cavities, the clock on structural damage starts immediately. We answer 24/7 and bring IICRC-trained technicians to extract water and begin structural drying before the damage spreads further.
 
 ## Why Pasadena Properties See Water Damage Issues
 

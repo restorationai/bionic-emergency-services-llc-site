@@ -36,6 +36,6 @@ We stage out of Houston and run up I-45 or Highway 249 depending on where the ca
 
 ## Local Note
 
-A detail that catches a lot of homeowners off guard: in the ZIP codes closest to Cypress Creek, including 77388 and parts of 77373, floodwater that recedes within a day can still leave slab moisture that reads dry on the surface but stays elevated under vinyl plank or laminate flooring for a week or more. We check subfloor moisture with penetrating meters rather than relying on a surface scan, because closing up a floor too early on these slabs is one of the more common causes of a mold callback after a storm.
+A detail that catches a lot of homeowners off guard: in the ZIP codes closest to Cypress Creek, including 77388 and parts of 77373, floodwater that recedes within a day can still leave slab moisture that reads dry on the surface but stays elevated under vinyl plank or laminate flooring for a week or more. We check subfloor moisture with penetrating meters rather than relying on a surface scan, because closing up a floor too early on these slabs is one of the more common causes of a moisture callback after a storm.
 
 If a recent storm has left you with a damaged roof, standing water, or downed trees against your home in Spring, the faster the structure gets stabilized, the less secondary damage you're dealing with next week. Call BIONIC Emergency Services for storm damage restoration in Spring, and we'll get a crew moving on your roof, water intrusion, or debris situation before it turns into a bigger repair.

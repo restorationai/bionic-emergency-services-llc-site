@@ -24,7 +24,7 @@ rendered: true
 
 ## Why Jersey Village Properties See Water Damage Issues
 
-Jersey Village sits just east of the Addicks Reservoir, and that proximity shapes how water problems show up here. Many homes in this incorporated city were built in the 1960s and 70s on slab foundations typical of the Houston Gulf Coast, which means there's no basement to catch an overflow, just a direct path for water to spread across carpet, tile, and engineered wood before anyone notices. The region's heavy clay soil swells when saturated and shrinks when it dries, which over time stresses slab foundations and plumbing lines running beneath them. Add in Houston-area humidity that regularly sits above 70 percent for much of the year, and a water loss here doesn't just need extraction, it needs aggressive dehumidification before trapped moisture turns into a secondary mold problem.
+Jersey Village sits just east of the Addicks Reservoir, and that proximity shapes how water problems show up here. Many homes in this incorporated city were built in the 1960s and 70s on slab foundations typical of the Houston Gulf Coast, which means there's no basement to catch an overflow, just a direct path for water to spread across carpet, tile, and engineered wood before anyone notices. The region's heavy clay soil swells when saturated and shrinks when it dries, which over time stresses slab foundations and plumbing lines running beneath them. Add in Houston-area humidity that regularly sits above 70 percent for much of the year, and a water loss here doesn't just need extraction, it needs aggressive dehumidification before trapped moisture causes secondary damage.
 
 ## Our Water Removal Process in Jersey Village
 

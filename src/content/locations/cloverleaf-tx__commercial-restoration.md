@@ -10,7 +10,7 @@ priority: 6.3
 plan_hash: "762e60db153e843b"
 generated_at: "2026-10-05T01:13:05.984632+00:00"
 manual_override: false
-internal_links: ["/services/commercial-restoration/", "/service-areas/cloverleaf-tx/", "/service-areas/cloverleaf-tx/mold-remediation/", "/service-areas/cloverleaf-tx/water-damage-restoration/", "/service-areas/baytown-tx/commercial-restoration/", "/service-areas/galena-park-tx/commercial-restoration/", "/contact/"]
+internal_links: ["/services/commercial-restoration/", "/service-areas/cloverleaf-tx/", "/service-areas/cloverleaf-tx/water-damage-restoration/", "/service-areas/baytown-tx/commercial-restoration/", "/service-areas/galena-park-tx/commercial-restoration/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Cloverleaf", "url": "/service-areas/cloverleaf-tx/"}, {"name": "commercial-restoration"}]
 faq: []
 area_slug: "cloverleaf-tx"

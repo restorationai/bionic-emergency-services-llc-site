@@ -24,7 +24,7 @@ When a fire is out, the damage is only half visible. The flames may have only to
 
 Fire damage isn't just the charred area. Heat warps framing even where it doesn't burn through it. Smoke particles are acidic and corrosive, meaning metal fixtures, electronics, and appliances can continue to degrade for days after the fire if they're not cleaned. Soot is also a mixed bag depending on what burned: synthetic materials (carpet, foam furniture, plastics) produce a thick, oily residue that smears when touched, while natural materials (wood, paper, cotton) leave a dry, powdery soot that's easier to wipe but spreads easily through HVAC systems.
 
-Then there's the water. Firefighting efforts routinely soak floors, walls, and ceilings, and that moisture doesn't evaporate on its own in a closed-up house. In Houston's humidity, a structure that sat with wet drywall and standing water for even a day or two is already on the clock for mold colonization, which typically starts within 24 to 48 hours in warm, damp conditions.
+Then there's the water. Firefighting efforts routinely soak floors, walls, and ceilings, and that moisture doesn't evaporate on its own in a closed-up house. In Houston's humidity, a structure that sat with wet drywall and standing water for even a day or two is already on the clock for secondary damage like rot, odor, and swelling.
 
 ## Immediate Steps After the Fire Is Out
 
@@ -75,4 +75,4 @@ Once a professional crew is on site, the work generally follows a sequence:
 
 Timelines vary widely depending on how much of the structure was affected. A contained fire with minor smoke spread might wrap up in a matter of days; a fire that compromised structural elements or required extensive content cleaning can take weeks.
 
-If you're standing in a house that still smells like smoke, or looking at soot on a wall you're not sure how to clean safely, don't wait for the smell to get worse or the water damage underneath to turn into mold. Call BIONIC Emergency Services LLC at (713) 338-2424 for an assessment, and document everything with photos before you start cleaning on your own.
+If you're standing in a house that still smells like smoke, or looking at soot on a wall you're not sure how to clean safely, don't wait for the smell to get worse or the water damage underneath to turn into a bigger problem. Call BIONIC Emergency Services LLC at (713) 338-2424 for an assessment, and document everything with photos before you start cleaning on your own.

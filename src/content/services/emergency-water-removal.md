@@ -17,9 +17,9 @@ service_slug: "emergency-water-removal"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-**Water pooling across your floors right now?** Call (713) 338-2424. We answer 24/7, and every hour that water sits against drywall, flooring, or subfloor is an hour closer to secondary damage and mold colonization, which can begin in as little as 24 to 48 hours in Houston's humidity.
+**Water pooling across your floors right now?** Call (713) 338-2424. We answer 24/7, and every hour that water sits against drywall, flooring, or subfloor is an hour closer to secondary damage, which can begin in as little as 24 to 48 hours in Houston's humidity.
 
-Standing water doesn't stay where you can see it. It wicks up drywall, pools under laminate and tile, and soaks into subfloor and joists long before the surface looks wet. A supply line failure, slab leak, or storm intrusion can leave a room looking fine at a glance while the materials underneath are already saturated. Emergency water removal and cleanup is the work of getting that water out fast, confirming what's actually wet versus what just looks wet, and drying the structure before it becomes a mold job.
+Standing water doesn't stay where you can see it. It wicks up drywall, pools under laminate and tile, and soaks into subfloor and joists long before the surface looks wet. A supply line failure, slab leak, or storm intrusion can leave a room looking fine at a glance while the materials underneath are already saturated. Emergency water removal and cleanup is the work of getting that water out fast, confirming what's actually wet versus what just looks wet, and drying the structure before it becomes a bigger job.
 
 ## What emergency water removal & cleanup actually involves
 
@@ -37,7 +37,7 @@ Timeline depends on how saturated the structure is and how quickly extraction st
 
 ## What separates a good water removal response from a bad one
 
-The most common mistake is drying to the eye instead of drying to a meter. A room can look and feel dry while the subfloor or wall cavity underneath still holds moisture, and if equipment gets pulled early, mold shows up two weeks later. Another frequent miss is skipping moisture mapping altogether and placing air movers evenly around a room instead of targeting where the water actually traveled, which wastes drying time and leaves hidden pockets wet.
+The most common mistake is drying to the eye instead of drying to a meter. A room can look and feel dry while the subfloor or wall cavity underneath still holds moisture, and if equipment gets pulled early, rot and odor show up two weeks later. Another frequent miss is skipping moisture mapping altogether and placing air movers evenly around a room instead of targeting where the water actually traveled, which wastes drying time and leaves hidden pockets wet.
 
 Adjusters generally want to see daily drying logs with psychrometric readings, not just a final "dry" checkmark. They also look for documentation of the water category at time of loss, since that determines what materials had to be removed versus dried in place. A response that skips this paperwork tends to run into coverage disputes later, even when the actual drying work was done correctly.
 
