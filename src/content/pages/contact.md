@@ -2,7 +2,7 @@
 archetype: "contact"
 title: "Contact BIONIC Emergency Services LLC | 24/7 Restoration in Houston"
 h1: "Contact BIONIC Emergency Services LLC"
-meta_description: "Call (713) 338-2424 for 24/7 emergency restoration in Houston and surrounding areas. Free estimates. Direct insurance billing."
+meta_description: "Call (713) 338-2424 for 24/7 emergency restoration in Houston and surrounding areas. Free evaluations. Direct insurance billing."
 primary_keyword: "bionic emergency services llc contact"
 secondary_keywords: ["restoration company contact", "24/7 restoration phone", "emergency restoration near me"]
 search_intent: "navigational_action"
