@@ -24,7 +24,7 @@ const breadcrumb = [{ name: "Home", url: "/" }, { name: "Case Studies" }];
   schema_ctx={{ archetype: "case-study-index" }}
   breadcrumb={breadcrumb}
 >
-  <section class="relative min-h-[350px] flex items-center overflow-hidden bg-navy border-b border-white/10">
+  <section class="relative min-h-[350px] flex items-center overflow-hidden bg-dark border-b border-white/10">
     <div class="absolute inset-0 z-0">
       <img src={heroImage} alt="" class="w-full h-full object-cover" loading="eager" />
       <div class="absolute inset-0 bg-gradient-to-r from-navy via-navy/90 to-navy/60"></div>
@@ -38,7 +38,7 @@ const breadcrumb = [{ name: "Home", url: "/" }, { name: "Case Studies" }];
     </div>
   </section>
 
-  <section class="section-first bg-navy pb-24">
+  <section class="section-first bg-dark pb-24">
     <div class="container-wide">
       {cities.length > 1 && (
         <div class="flex flex-wrap gap-2 mb-8" id="city-filter">
