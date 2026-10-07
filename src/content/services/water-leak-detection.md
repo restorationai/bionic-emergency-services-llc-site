@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Water Leak Detection in Houston | BIONIC Emergency Services LLC"
 h1: "Water Leak Detection in Houston"
-meta_description: "24/7 water leak detection in Houston and surrounding areas. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "24/7 water leak detection in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "water leak detection houston"
 secondary_keywords: ["leak detection", "hidden water leak", "slab leak detection", "water leak in wall", "leak detection service"]
 search_intent: "local_emergency"

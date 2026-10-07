@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Tomball, TX | BIONIC Services LLC"
 h1: "Emergency Burst Pipe Cleanup and Repair in Tomball"
-meta_description: "Emergency burst pipe cleanup and repair in Tomball, TX. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "Emergency burst pipe cleanup and repair in Tomball, TX. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "burst pipe cleanup and repair tomball"
 secondary_keywords: ["burst pipe cleanup", "pipe break water damage", "water line break"]
 search_intent: "local_emergency"

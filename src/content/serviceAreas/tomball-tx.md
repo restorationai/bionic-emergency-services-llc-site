@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Tomball, TX | BIONIC Services LLC"
 h1: "Restoration Services in Tomball"
-meta_description: "Serving Tomball, TX with water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Tomball, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services tomball"
 secondary_keywords: ["tomball restoration company", "damage restoration tomball", "tomball disaster restoration"]
 search_intent: "local_commercial"

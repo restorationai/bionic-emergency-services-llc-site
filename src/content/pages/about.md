@@ -2,7 +2,7 @@
 archetype: "about"
 title: "About BIONIC Emergency Services LLC | Houston Restoration Company"
 h1: "About BIONIC Emergency Services LLC"
-meta_description: "BIONIC Emergency Services LLC has served Houston since 2011. Meet our IICRC-certified restoration team. Licensed, insured, locally owned."
+meta_description: "BIONIC Emergency Services LLC has served Houston since 2011. Meet our IICRC-trained restoration team. Licensed, insured, locally owned."
 primary_keyword: "bionic emergency services llc houston"
 secondary_keywords: ["local restoration company", "iicrc certified restoration", "licensed restoration contractor"]
 search_intent: "navigational_trust"

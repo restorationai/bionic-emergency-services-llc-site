@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Missouri City, TX | BIONIC Emergency Services LLC"
 h1: "Restoration Services in Missouri City"
-meta_description: "Serving Missouri City, TX with 24/7 water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Missouri City, TX with 24/7 water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services missouri city"
 secondary_keywords: ["missouri city restoration company", "damage restoration missouri city", "missouri city disaster restoration"]
 search_intent: "local_commercial"

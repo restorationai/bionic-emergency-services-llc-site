@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Houston | BIONIC Emergency Services LLC"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Houston"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Houston and surrounding areas. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "burst pipe cleanup and repair houston"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"

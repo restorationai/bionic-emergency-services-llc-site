@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Pearland, TX | BIONIC Emergency Services LLC"
 h1: "Restoration Services in Pearland"
-meta_description: "Serving Pearland, TX with 24/7 water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Pearland, TX with 24/7 water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services pearland"
 secondary_keywords: ["pearland restoration company", "damage restoration pearland", "pearland disaster restoration"]
 search_intent: "local_commercial"

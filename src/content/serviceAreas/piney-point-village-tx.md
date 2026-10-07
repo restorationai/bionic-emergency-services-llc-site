@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Piney Point Village, TX | BIONIC Services LLC"
 h1: "Restoration Services in Piney Point Village"
-meta_description: "Serving Piney Point Village, TX with water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Piney Point Village, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services piney point village"
 secondary_keywords: ["piney point village restoration company", "damage restoration piney point village", "piney point village disaster restoration"]
 search_intent: "local_commercial"

@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Storm Damage Restoration in Houston | BIONIC Emergency Services LLC"
 h1: "24/7 Emergency Storm Damage Restoration in Houston"
-meta_description: "24/7 emergency storm damage restoration in Houston and surrounding areas. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "24/7 emergency storm damage restoration in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "storm damage restoration houston"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"

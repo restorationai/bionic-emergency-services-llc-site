@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Spring, TX | BIONIC Emergency Services LLC"
 h1: "Restoration Services in Spring"
-meta_description: "Serving Spring, TX with 24/7 water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Spring, TX with 24/7 water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services spring"
 secondary_keywords: ["spring restoration company", "damage restoration spring", "spring disaster restoration"]
 search_intent: "local_commercial"

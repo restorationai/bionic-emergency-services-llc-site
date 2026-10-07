@@ -63,7 +63,7 @@ export const brand = {
   // lets the TrustStrip show the badge before a license number is on file.
   licensedInsuredAttested: true as boolean,
   certifications: ["IICRC WRT (Water)", "IICRC ASD (Structural Drying)"] as string[],
-  trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
+  trustBadges: ["Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.angi.com/companylist/us/tx/houston/bionic-emergency-services-llc-reviews-1.htm", "https://www.homeadvisor.com/rated.BIONICEmergencyServices.25215285.html"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by

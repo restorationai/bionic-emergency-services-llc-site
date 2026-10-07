@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Galena Park, TX | BIONIC Services LLC"
 h1: "Restoration Services in Galena Park"
-meta_description: "Serving Galena Park, TX with water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Galena Park, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services galena park"
 secondary_keywords: ["galena park restoration company", "damage restoration galena park", "galena park disaster restoration"]
 search_intent: "local_commercial"

@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Water Removal & Cleanup in Houston | BIONIC Emergency Services LLC"
 h1: "24/7 Emergency Water Removal & Cleanup in Houston"
-meta_description: "24/7 emergency water removal & cleanup in Houston and surrounding areas. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "24/7 emergency water removal & cleanup in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "emergency water removal & cleanup houston"
 secondary_keywords: ["emergency water removal", "water extraction", "water removal", "water cleanup", "emergency water cleanup", "standing water removal"]
 search_intent: "local_emergency"

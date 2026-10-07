@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Pasadena, TX | BIONIC Emergency Services LLC"
 h1: "Restoration Services in Pasadena"
-meta_description: "Serving Pasadena, TX with 24/7 water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Pasadena, TX with 24/7 water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services pasadena"
 secondary_keywords: ["pasadena restoration company", "damage restoration pasadena", "pasadena disaster restoration"]
 search_intent: "local_commercial"

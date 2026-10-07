@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Large Loss and Catastrophic Response in Houston | BIONIC Emergency Services LLC"
 h1: "Large Loss and Catastrophic Response in Houston"
-meta_description: "24/7 large loss and catastrophic response in Houston and surrounding areas. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "24/7 large loss and catastrophic response in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "large loss and catastrophic response houston"
 secondary_keywords: ["large loss restoration", "catastrophic loss response", "commercial catastrophic restoration", "multi-million dollar restoration", "large loss adjusters"]
 search_intent: "local_b2b"

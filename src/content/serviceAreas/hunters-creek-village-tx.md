@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Hunters Creek Village, TX | BIONIC Services LLC"
 h1: "Restoration Services in Hunters Creek Village"
-meta_description: "Serving Hunters Creek Village, TX with water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Hunters Creek Village, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services hunters creek village"
 secondary_keywords: ["hunters creek village restoration company", "damage restoration hunters creek village", "hunters creek village disaster restoration"]
 search_intent: "local_commercial"

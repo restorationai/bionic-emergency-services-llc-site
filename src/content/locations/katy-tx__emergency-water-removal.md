@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Water Removal & Cleanup in Katy, TX | BIONIC Services LLC"
 h1: "Emergency Water Removal & Cleanup in Katy"
-meta_description: "Emergency water removal & cleanup in Katy, TX. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "Emergency water removal & cleanup in Katy, TX. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "emergency water removal & cleanup katy"
 secondary_keywords: ["water extraction", "water removal", "water cleanup", "standing water removal"]
 search_intent: "local_emergency"

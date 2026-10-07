@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Bellaire, TX | BIONIC Services LLC"
 h1: "Restoration Services in Bellaire"
-meta_description: "Serving Bellaire, TX with water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Bellaire, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services bellaire"
 secondary_keywords: ["bellaire restoration company", "damage restoration bellaire", "bellaire disaster restoration"]
 search_intent: "local_commercial"

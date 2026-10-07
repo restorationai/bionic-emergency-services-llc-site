@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Jersey Village, TX | BIONIC Services LLC"
 h1: "Restoration Services in Jersey Village"
-meta_description: "Serving Jersey Village, TX with water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Jersey Village, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services jersey village"
 secondary_keywords: ["jersey village restoration company", "damage restoration jersey village", "jersey village disaster restoration"]
 search_intent: "local_commercial"

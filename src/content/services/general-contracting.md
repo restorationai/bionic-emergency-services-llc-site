@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Renovations, Remodels and General Contracting in Houston | BIONIC Emergency Services LLC"
 h1: "Renovations, Remodels and General Contracting in Houston"
-meta_description: "24/7 renovations, remodels and general contracting in Houston and surrounding areas. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "24/7 renovations, remodels and general contracting in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "renovations, remodels and general contracting houston"
 secondary_keywords: ["general contractor", "home renovation services", "home remodeling", "kitchen remodel", "bathroom remodel", "post-damage rebuild"]
 search_intent: "local_commercial"

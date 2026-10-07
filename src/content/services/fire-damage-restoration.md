@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Fire Damage Restoration in Houston | BIONIC Emergency Services LLC"
 h1: "24/7 Emergency Fire Damage Restoration in Houston"
-meta_description: "24/7 emergency fire damage restoration in Houston and surrounding areas. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "24/7 emergency fire damage restoration in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "fire damage restoration houston"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"

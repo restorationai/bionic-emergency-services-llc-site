@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in The Woodlands, TX | BIONIC Emergency Services LLC"
 h1: "Restoration Services in The Woodlands"
-meta_description: "Serving The Woodlands, TX with 24/7 water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving The Woodlands, TX with 24/7 water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services the woodlands"
 secondary_keywords: ["the woodlands restoration company", "damage restoration the woodlands", "the woodlands disaster restoration"]
 search_intent: "local_commercial"

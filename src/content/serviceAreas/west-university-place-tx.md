@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in West University Place, TX | BIONIC Services LLC"
 h1: "Restoration Services in West University Place"
-meta_description: "Serving West University Place, TX with water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving West University Place, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services west university place"
 secondary_keywords: ["west university place restoration company", "damage restoration west university place", "west university place disaster restoration"]
 search_intent: "local_commercial"

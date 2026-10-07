@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Jacinto City, TX | BIONIC Services LLC"
 h1: "Restoration Services in Jacinto City"
-meta_description: "Serving Jacinto City, TX with water, fire, and storm damage restoration. IICRC-certified team. Call (713) 338-2424."
+meta_description: "Serving Jacinto City, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services jacinto city"
 secondary_keywords: ["jacinto city restoration company", "damage restoration jacinto city", "jacinto city disaster restoration"]
 search_intent: "local_commercial"

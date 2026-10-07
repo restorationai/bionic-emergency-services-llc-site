@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Katy, TX | BIONIC Emergency Services LLC"
 h1: "24/7 Emergency Fire Damage Restoration in Katy"
-meta_description: "24/7 emergency fire damage restoration in Katy, TX. IICRC-certified, insurance billing accepted. Call (713) 338-2424."
+meta_description: "24/7 emergency fire damage restoration in Katy, TX. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "fire damage restoration katy"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
