@@ -53,6 +53,6 @@ If you have questions about this privacy policy or how your information is handl
 BIONIC Emergency Services LLC
 14300 Northwest Freeway, Suite A9, Houston, TX 77040
 Phone: (713) 338-2424
-Email: shane@bionic24365.com
+Email: alert@bionic24365.com
 
 We may update this policy from time to time as our site or practices change. The version posted here is the one currently in effect.

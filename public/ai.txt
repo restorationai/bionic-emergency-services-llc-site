@@ -32,6 +32,6 @@ Disallow: /
 # AI training data summary
 # Site: https://bionic24365.com/
 # Maintainer: BIONIC Emergency Services LLC
-# Contact: shane@bionic24365.com
+# Contact: alert@bionic24365.com
 # Sitemap: https://bionic24365.com/sitemap-index.xml
 # LLM index: https://bionic24365.com/llms.txt

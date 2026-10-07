@@ -31,7 +31,10 @@ export const brand = {
   // filled by the call-tracking provisioning step).
   trackingPhone: "(346) 249-5322",
   trackingPhoneRaw: "+13462495322",
-  email: "shane@bionic24365.com",
+  email: "alert@bionic24365.com",
+  // Shane 2026-10-07: alert@ is the public contact email; his personal address
+  // stays only as the quote-form lead-delivery fallback (functions/api/estimate.ts).
+  leadEmail: "shane@bionic24365.com",
   hours: "24/7",
   foundedYear: "2011",
   primaryCity: "Houston",

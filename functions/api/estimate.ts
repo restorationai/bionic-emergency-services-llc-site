@@ -58,7 +58,7 @@ const clean = (v: unknown, max: number) =>
 // change it without a site redeploy: companies.email -> companies.transfer_primary_email
 // -> brand.email (baked-in fallback).
 async function resolveRecipient(env: Env): Promise<string> {
-  const fallback = (brand.email || "").trim();
+  const fallback = ((brand as { leadEmail?: string }).leadEmail || brand.email || "").trim();
   if (!env.SUPABASE_URL || !env.SUPABASE_SERVICE_ROLE_KEY || !env.COMPANY_ID) return fallback;
   const rows = (await sbGet(
     env,
@@ -375,7 +375,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     return json({ ok: false, error: "missing-required-fields" }, 400);
   }
 
-  const toEmail = await resolveRecipient(env).catch(() => (brand.email || "").trim());
+  const toEmail = await resolveRecipient(env).catch(() => ((brand as { leadEmail?: string }).leadEmail || brand.email || "").trim());
 
   const [email, sms, db, prospectSms, autoReply] = await Promise.all([
     sendEmail(env, lead, toEmail).catch((e) => `error:${String(e).slice(0, 200)}`),

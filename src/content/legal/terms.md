@@ -24,7 +24,7 @@ We use this information to respond to your inquiry, schedule an estimate or insp
 
 We retain contact form submissions and project-related records for as long as needed to support your claim, warranty, or billing history, and consistent with standard recordkeeping practices for restoration contractors in Texas. If you're a California resident, you have rights under the CCPA to request access to or deletion of your personal information; contact us using the information below and we'll respond. Because BIONIC operates exclusively in the United States and does not target or process data for individuals in the European Union, GDPR generally does not apply to our operations, but we're happy to address specific privacy questions regardless of where you're writing from.
 
-For any privacy question or to request a copy or deletion of your information, email shane@bionic24365.com or call (713) 338-2424.
+For any privacy question or to request a copy or deletion of your information, email alert@bionic24365.com or call (713) 338-2424.
 
 ## Terms of Service
 
@@ -38,4 +38,4 @@ Should a dispute arise, we ask that you first contact us directly so we can work
 
 ## Accessibility Statement
 
-We aim to make this website usable for everyone, including visitors using screen readers or other assistive technology, and we're working toward conformance with WCAG 2.1 Level AA guidelines. If you encounter a page, form, or feature that's difficult to use, let us know at shane@bionic24365.com or (713) 338-2424 and we'll work to address it within a reasonable timeframe.
+We aim to make this website usable for everyone, including visitors using screen readers or other assistive technology, and we're working toward conformance with WCAG 2.1 Level AA guidelines. If you encounter a page, form, or feature that's difficult to use, let us know at alert@bionic24365.com or (713) 338-2424 and we'll work to address it within a reasonable timeframe.

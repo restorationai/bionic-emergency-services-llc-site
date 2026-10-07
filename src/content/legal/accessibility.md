@@ -32,7 +32,7 @@ No website is perfectly accessible at all times, especially one that gets update
 
 If you use assistive technology and hit a barrier anywhere on this site, including trouble reading a page, filling out the contact form, or navigating to our service or location pages, please let us know. Tell us the page you were on, what device or software you were using (screen reader, browser, mobile vs. desktop), and what happened. That detail helps us reproduce and fix the issue faster than a general complaint.
 
-You can reach us by phone at (713) 338-2424 or by email at shane@bionic24365.com. If a phone call isn't practical for your situation, email is the more reliable way to document the specific problem and get a written reply.
+You can reach us by phone at (713) 338-2424 or by email at alert@bionic24365.com. If a phone call isn't practical for your situation, email is the more reliable way to document the specific problem and get a written reply.
 
 ## Response Timeline
 
