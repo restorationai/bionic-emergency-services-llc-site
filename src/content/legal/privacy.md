@@ -24,7 +24,7 @@ Like most websites, ours also gathers basic analytics data, things like which pa
 
 ## How We Use Your Information
 
-We use the information you provide to respond to inquiries, schedule estimates or inspections, and coordinate the work itself. If your loss involves an insurance claim, we may use the details you give us to prepare documentation, estimates, or photos that support that claim. We don't use your contact information for unrelated marketing, and we don't sell it.
+We use the information you provide to respond to inquiries, schedule evaluations or inspections, and coordinate the work itself. If your loss involves an insurance claim, we may use the details you give us to prepare documentation, estimates, or photos that support that claim. We don't use your contact information for unrelated marketing, and we don't sell it.
 
 ## How We Share Your Information
 

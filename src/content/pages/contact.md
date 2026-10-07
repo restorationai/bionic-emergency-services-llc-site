@@ -21,9 +21,9 @@ Water spreading across your floor or smoke still hanging in the air doesn't wait
 
 If you're dealing with active flooding, fire or smoke damage, a sewage backup, or any kind of biohazard situation, skip the contact form and call. We answer 24/7, including nights, weekends, and holidays, so there's no need to wait until morning or leave a message and hope for a callback.
 
-## For estimates and non-urgent inquiries
+## For evaluations and non-urgent inquiries
 
-Not every call is an emergency. If you're looking for a scheduled estimate, have a question about coverage, or need to follow up on a claim that's already in progress, email **alert@bionic24365.com** or use the contact form. We typically respond to non-urgent emails within one business day, and we're happy to walk through scope, scheduling, and what to expect before any work begins.
+Not every call is an emergency. If you're looking for a scheduled evaluation, have a question about coverage, or need to follow up on a claim that's already in progress, email **alert@bionic24365.com** or use the contact form. We typically respond to non-urgent emails within one business day, and we're happy to walk through scope, scheduling, and what to expect before any work begins.
 
 ## Where we're located
 
