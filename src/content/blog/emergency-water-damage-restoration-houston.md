@@ -76,6 +76,6 @@ The fastest way to protect the structure and the claim is the same move either w
 
 **About BIONIC Emergency Services LLC**
 
-BIONIC Emergency Services LLC has served Houston, TX since 2011, holding a 4.9 average rating across 154 Google reviews. Technicians carry IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications, and the company is licensed and insured. BIONIC handles water cleanup, water damage restoration, sewage cleanup, storm damage restoration, fire and smoke damage restoration, and contents restoration and storage across Houston and the surrounding areas, from Pasadena to The Woodlands.
+BIONIC Emergency Services LLC has served Houston, TX since 2011, holding a 4.9 average rating across 154 Google reviews. Technicians carry IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications. BIONIC handles water cleanup, water damage restoration, sewage cleanup, storm damage restoration, fire and smoke damage restoration, and contents restoration and storage across Houston and the surrounding areas, from Pasadena to The Woodlands.
 
 **Need help now?** [Call BIONIC Emergency Services LLC at (713) 338-2424](tel:+17133382424).
