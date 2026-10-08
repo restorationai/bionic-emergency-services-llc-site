@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Does Homeowners Insurance Cover Water Damage? A Plain-English Guide"
 h1: "Does Homeowners Insurance Cover Water Damage? A Plain-English Guide"
-meta_description: ""
+meta_description: "Homeowners insurance generally covers water damage when it happens suddenly and accidentally, like a pipe that bursts overnight or a washing machine hose that fails."
 primary_keyword: "does homeowners insurance cover water damage a plainenglish guide"
 secondary_keywords: ["water damage restoration"]
 search_intent: "informational_insurance"

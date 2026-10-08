@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "What IICRC Certification Means (and Why You Should Hire It)"
 h1: "What IICRC Certification Means (and Why You Should Hire It)"
-meta_description: ""
+meta_description: "If you've called around for water or fire damage help, you've probably seen the letters IICRC on a website or business card and wondered what they actually mean."
 primary_keyword: "what iicrc certification means and why you should hire it"
 secondary_keywords: ["water damage restoration", "fire damage restoration"]
 search_intent: "informational_trust"

@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "The Fire Damage Restoration Process, Explained"
 h1: "The Fire Damage Restoration Process, Explained"
-meta_description: ""
+meta_description: "When a fire is out, the damage is only half visible."
 primary_keyword: "the fire damage restoration process explained"
 secondary_keywords: ["fire damage restoration", "smoke damage restoration"]
 search_intent: "informational_emergency"

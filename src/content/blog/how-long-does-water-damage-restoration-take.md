@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "How Long Does Water Damage Restoration Actually Take?"
 h1: "How Long Does Water Damage Restoration Actually Take?"
-meta_description: ""
+meta_description: "Most water damage restoration projects take between three and seven days for the drying and mitigation phase, with full repairs (drywall, flooring..."
 primary_keyword: "how long does water damage restoration actually take"
 secondary_keywords: ["water damage restoration"]
 search_intent: "informational_process"

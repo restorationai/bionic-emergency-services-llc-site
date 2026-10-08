@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "What To Do in the First 24 Hours After Water Damage"
 h1: "What To Do in the First 24 Hours After Water Damage"
-meta_description: ""
+meta_description: "Water damage gets worse by the hour, not the day."
 primary_keyword: "what to do in the first 24 hours after water damage"
 secondary_keywords: ["water damage restoration"]
 search_intent: "informational_emergency"

@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Burst Pipe Emergency Checklist: Step-by-Step Response"
 h1: "Burst Pipe Emergency Checklist: Step-by-Step Response"
-meta_description: ""
+meta_description: "Pipe burst and water is spreading fast? Call now for emergency service at (713) 338-2424."
 primary_keyword: "burst pipe emergency checklist stepbystep response"
 secondary_keywords: ["water damage restoration", "appliance leak cleanup"]
 search_intent: "informational_emergency"

@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Storm Damage Insurance Claim Checklist (Use This Before You Call Your Insurer)"
 h1: "Storm Damage Insurance Claim Checklist (Use This Before You Call Your Insurer)"
-meta_description: ""
+meta_description: "If a storm just rolled through and you're staring at a damaged roof, a flooded garage, or water stains spreading across your ceiling, the single most..."
 primary_keyword: "storm damage insurance claim checklist use this before you call your insurer"
 secondary_keywords: ["storm damage restoration"]
 search_intent: "informational_insurance"

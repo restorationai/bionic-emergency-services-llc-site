@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "How Professionals Remove Smoke Odor (and Why DIY Usually Fails)"
 h1: "How Professionals Remove Smoke Odor (and Why DIY Usually Fails)"
-meta_description: ""
+meta_description: "Smoke odor removal works because professionals treat it as a chemistry problem, not a cleaning problem."
 primary_keyword: "how professionals remove smoke odor and why diy usually fails"
 secondary_keywords: ["smoke damage restoration", "fire damage restoration"]
 search_intent: "informational_specialty"

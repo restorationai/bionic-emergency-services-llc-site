@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "How To Choose a Restoration Company in Houston (Without Getting Burned)"
 h1: "How To Choose a Restoration Company in Houston (Without Getting Burned)"
-meta_description: ""
+meta_description: "If you're searching for how to choose a restoration company, you're probably staring at water on the floor, a scorched wall, or a musty smell that..."
 primary_keyword: "how to choose a restoration company in houston without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration"]
 search_intent: "commercial_decision"
