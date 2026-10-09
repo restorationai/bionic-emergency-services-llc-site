@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Commercial Water Damage: Protecting Business Continuity After a Loss"
 h1: "Commercial Water Damage: Protecting Business Continuity After a Loss"
-meta_description: "Why Commercial Water Losses Are Different From Residential Ones When a pipe bursts or a roof fails in a commercial building, the damage rarely stays contained to one room."
+meta_description: "When a pipe bursts or a roof fails in a commercial building, the damage rarely stays contained to one room."
 primary_keyword: "commercial water damage protecting business continuity after a loss"
 secondary_keywords: ["commercial restoration", "water damage restoration"]
 search_intent: "informational_b2b"
