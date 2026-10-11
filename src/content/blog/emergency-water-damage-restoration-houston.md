@@ -28,7 +28,7 @@ If you just walked into a kitchen in Meyerland or a townhome near Montrose and f
 
 Shut off the water source first, then get people and pets away from standing water, especially near outlets or light fixtures. If the water is coming from a burst pipe or supply line, the main shutoff valve is usually near the water meter or where the line enters the house; a washing machine or dishwasher leak just needs that appliance's valve closed.
 
-Once the source is stopped, take photos and a short video of the damage before you move anything. Insurers want to see the water line on the walls, the affected flooring, and any furniture or contents in the path. If the water is anything beyond a clean supply line, meaning it touched a toilet, a sump pump, or came in from outside, treat it as contaminated (what the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) classifies as Category 2 or 3 water) and avoid wading through it without rubber boots and gloves.
+Once the source is stopped, take photos and a short video of the damage before you move anything. Insurers want to see the water line on the walls, the affected flooring, and any furniture or contents in the path. If the water is anything beyond a clean supply line, meaning it touched a toilet, a sump pump, or came in from outside, treat it as contaminated (what the [IICRC S500 standard](https://iicrc.org/s500/) classifies as Category 2 or 3 water) and avoid wading through it without rubber boots and gloves.
 
 Do not run a household fan over sewage-contaminated water. It aerosolizes bacteria into the air you're breathing. That situation calls for a [sewage cleanup](/services/sewage-cleanup/) crew, not a mop.
 

@@ -45,7 +45,7 @@ The single biggest driver is water category. Category 1 is clean water from a su
 
 Square footage and the number of drying days matter almost as much. Air movers, LGR dehumidifiers, and air scrubbers are billed daily, and a structure that takes five days to hit the drying target costs more than one that hits it in two. Houston's humidity doesn't help; a slab home in Pearland or a bayou-adjacent property near Buffalo Bayou Park can take longer to dry than the same square footage in a drier climate.
 
-Materials removed add up fast: wet drywall, insulation, carpet pad, baseboards, and cabinetry that's swollen or delaminated. Most restoration crews, including ours, dry structures to the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), the industry benchmark that determines when a material can be dried in place versus when it has to be removed. Standing water under 24 to 48 hours often dries in place; longer than that, and porous materials usually come out to prevent secondary damage.
+Materials removed add up fast: wet drywall, insulation, carpet pad, baseboards, and cabinetry that's swollen or delaminated. Most restoration crews, including ours, dry structures to the [IICRC S500 standard](https://iicrc.org/s500/), the industry benchmark that determines when a material can be dried in place versus when it has to be removed. Standing water under 24 to 48 hours often dries in place; longer than that, and porous materials usually come out to prevent secondary damage.
 
 ![What Drives the Price Up or Down: water damage restoration cost](/images/blog/2026/10/water-damage-restoration-cost-houston/section.webp)
 
