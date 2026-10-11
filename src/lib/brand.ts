@@ -68,7 +68,7 @@ export const brand = {
   certifications: ["IICRC WRT (Water)", "IICRC ASD (Structural Drying)"] as string[],
   trustBadges: ["Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.angi.com/companylist/us/tx/houston/bionic-emergency-services-llc-reviews-1.htm", "https://www.homeadvisor.com/rated.BIONICEmergencyServices.25215285.html"] as string[],
+  sameAsUrls: ["https://maps.google.com/maps?cid=8687357031602970747", "https://www.yelp.com/biz/bionic-emergency-services-houston", "https://www.bbb.org/us/tx/houston/profile/water-damage-restoration/bionic-emergency-services-0915-90037265"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
