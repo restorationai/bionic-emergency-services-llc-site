@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, storm damage, biohazard cleanup, and reconstruction for homes and businesses throughout Willis, Texas. Since 2011 the Houston-based team has worked disaster recovery jobs across the Gulf Coast region, and Willis properties, from lakeside cabins to newer subdivisions off FM 1097, present their own mix of flooding, humidity, and storm exposure that a general handyman crew isn't equipped to handle.
+BIONIC Emergency Services handles water damage, fire and smoke damage, storm damage, biohazard cleanup, and reconstruction for homes and businesses throughout Willis, Texas. Since 2011 the Houston-based team has worked disaster recovery jobs across the Gulf Coast region, and Willis properties, from lakeside cabins to newer subdivisions off FM 1097, present their own mix of flooding, humidity, and storm exposure that a general handyman crew isn't equipped to handle.
 
 ## Restoration emergencies common in Willis
 

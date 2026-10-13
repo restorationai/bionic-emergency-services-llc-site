@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water intrusion, fire and smoke damage, storm-related losses, and biohazard cleanup for homeowners throughout Hunters Creek Village. The city's large, heavily wooded lots and custom-built homes along Buffalo Bayou create specific drying and access challenges that differ from a typical Houston subdivision, and our scopes are built around that reality rather than a one-size-fits-all approach.
+BIONIC Emergency Services handles water intrusion, fire and smoke damage, storm-related losses, and biohazard cleanup for homeowners throughout Hunters Creek Village. The city's large, heavily wooded lots and custom-built homes along Buffalo Bayou create specific drying and access challenges that differ from a typical Houston subdivision, and our scopes are built around that reality rather than a one-size-fits-all approach.
 
 ## Restoration emergencies common in Hunters Creek Village
 
@@ -37,4 +37,4 @@ Hunters Creek Village is a short run from our Houston base via I-10 and Voss Roa
 
 Most homes in Hunters Creek Village date from the 1950s through the 1970s, many since remodeled or replaced with larger custom builds, and slab-on-grade foundations dominate both eras. That slab construction means water intrusion frequently travels laterally under flooring before surfacing, which complicates both detection and drying. Older homes in the area may still carry galvanized or early copper supply lines and, depending on vintage, materials like asbestos floor tile or lead paint that a restoration scope has to account for before demolition begins. The region's expansive clay soil shifts seasonally with moisture content, stressing slab joints and foundation walls over time. Harris County and the City of Hunters Creek Village's own building department oversee permitting for structural repair, and given the prevalence of larger lots and custom architecture, many properties also fall under HOA or deed-restriction review before exterior work proceeds.
 
-If water, fire, storm, or biohazard damage has hit your Hunters Creek Village property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll walk through what's happening, document the damage for your insurance carrier, and get a crew scoped and moving.
+If water, fire, storm, or biohazard damage has hit your Hunters Creek Village property, call BIONIC Emergency Services at (713) 338-2424. We'll walk through what's happening, document the damage for your insurance carrier, and get a crew scoped and moving.

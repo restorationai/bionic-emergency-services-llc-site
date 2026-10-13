@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water, fire, storm, and biohazard cleanup for homes and businesses in Galena Park, a city built tight against the Houston Ship Channel and threaded with refinery and rail infrastructure that shapes how property damage happens here. We document losses the way adjusters expect, work directly with the structural realities of this industrial corridor, and get a crew moving toward Galena Park as soon as a call comes in.
+BIONIC Emergency Services handles water, fire, storm, and biohazard cleanup for homes and businesses in Galena Park, a city built tight against the Houston Ship Channel and threaded with refinery and rail infrastructure that shapes how property damage happens here. We document losses the way adjusters expect, work directly with the structural realities of this industrial corridor, and get a crew moving toward Galena Park as soon as a call comes in.
 
 ## Restoration emergencies common in Galena Park
 

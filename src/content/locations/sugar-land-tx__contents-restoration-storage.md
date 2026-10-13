@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration & Storage in Sugar Land, TX | BIONIC Emergency Services LLC"
+title: "Contents Restoration & Storage in Sugar Land, TX | BIONIC Emergency Services"
 h1: "Contents Restoration & Storage in Sugar Land"
 meta_description: "24/7 contents restoration & storage in Sugar Land, TX. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "contents restoration & storage sugar land"

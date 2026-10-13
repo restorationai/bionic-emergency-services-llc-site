@@ -71,6 +71,6 @@ Flood damage from a bayou overflow is not the same claim, process, or coverage a
 
 ---
 
-**About BIONIC Emergency Services LLC**
+**About BIONIC Emergency Services**
 
-This article was written with the BIONIC Emergency Services team, led by Shane Dodson. BIONIC has served Houston, TX since 2011, with technicians holding IICRC WRT (Water Damage Restoration) and IICRC ASD (Applied Structural Drying) certifications. The company operates 24/7 and is insured, with a 4.9 rating across 154 Google reviews. BIONIC's crews handle water damage restoration, storm damage restoration, sewage cleanup, and contents restoration and storage across Houston and surrounding communities from Meyerland to The Woodlands. [Call BIONIC Emergency Services LLC at (713) 338-2424](tel:+17133382424) for a flood damage assessment, or review service details on the [Houston service area page](/service-areas/houston-tx/).
+This article was written with the BIONIC Emergency Services team, led by Shane Dodson. BIONIC has served Houston, TX since 2011, with technicians holding IICRC WRT (Water Damage Restoration) and IICRC ASD (Applied Structural Drying) certifications. The company operates 24/7 and is insured, with a 4.9 rating across 154 Google reviews. BIONIC's crews handle water damage restoration, storm damage restoration, sewage cleanup, and contents restoration and storage across Houston and surrounding communities from Meyerland to The Woodlands. [Call BIONIC Emergency Services at (713) 338-2424](tel:+17133382424) for a flood damage assessment, or review service details on the [Houston service area page](/service-areas/houston-tx/).

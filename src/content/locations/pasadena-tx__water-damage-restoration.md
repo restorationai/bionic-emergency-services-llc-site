@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Pasadena, TX | BIONIC Emergency Services LLC"
+title: "24/7 Emergency Water Damage Restoration in Pasadena, TX | BIONIC Emergency Services"
 h1: "24/7 Emergency Water Damage Restoration in Pasadena"
 meta_description: "24/7 emergency water damage restoration in Pasadena, TX. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "water damage restoration pasadena"

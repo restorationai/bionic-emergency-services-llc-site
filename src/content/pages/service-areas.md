@@ -1,8 +1,8 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | BIONIC Emergency Services LLC Restoration"
+title: "Service Areas | BIONIC Emergency Services Restoration"
 h1: "Areas We Serve"
-meta_description: "BIONIC Emergency Services LLC provides 24/7 restoration services across Houston and the surrounding region. Find your city."
+meta_description: "BIONIC Emergency Services provides 24/7 restoration services across Houston and the surrounding region. Find your city."
 primary_keyword: "bionic emergency services llc service areas"
 secondary_keywords: ["restoration service area", "cities we serve", "local restoration coverage"]
 search_intent: "navigational_local"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas"}]
 faq: [{"question": "How far from Houston will you travel for a job?", "answer": "We regularly cover the greater Houston metro and surrounding counties, and we'll consider jobs further out depending on the size and severity of the loss. If you're unsure whether your address is in range, call (713) 338-2424 and we'll tell you directly rather than make you guess from a map."}, {"question": "Will response be slower if I'm outside the inner loop?", "answer": "Crews are generally dispatched based on proximity, so inner-loop and close-in suburb calls tend to be reached first. We don't promise a specific arrival window for outlying areas, but active water or fire damage is always prioritized over the exact mileage from our base."}, {"question": "Are there cities or areas you don't serve?", "answer": "There isn't a hard boundary we publish, since coverage can flex for larger losses. The most reliable way to confirm is to call and describe your location and the type of damage, and we'll tell you whether we can dispatch directly or point you to someone who can get there faster."}]
 rendered: true
 ---
-Water and fire damage don't wait for convenient timing, and neither do we. BIONIC Emergency Services LLC answers calls 24/7 and dispatches crews based on where the damage is and how urgent the loss is. Whether you're in a high-rise downtown or a ranch house on the outskirts of the metro, the same team and the same process apply: we assess, we document for your insurance carrier, and we get to work.
+Water and fire damage don't wait for convenient timing, and neither do we. BIONIC Emergency Services answers calls 24/7 and dispatches crews based on where the damage is and how urgent the loss is. Whether you're in a high-rise downtown or a ranch house on the outskirts of the metro, the same team and the same process apply: we assess, we document for your insurance carrier, and we get to work.
 
 ## Where we work
 

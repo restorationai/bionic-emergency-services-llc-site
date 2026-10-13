@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC provides water damage, fire and smoke, and storm restoration for homes and businesses in Cloverleaf, Texas, an unincorporated community on Houston's east side. Our crews work directly with Harris County property owners and the insurance carriers that cover them, documenting losses and handling the physical cleanup and drying so an already stressful situation doesn't turn into a longer, costlier one.
+BIONIC Emergency Services provides water damage, fire and smoke, and storm restoration for homes and businesses in Cloverleaf, Texas, an unincorporated community on Houston's east side. Our crews work directly with Harris County property owners and the insurance carriers that cover them, documenting losses and handling the physical cleanup and drying so an already stressful situation doesn't turn into a longer, costlier one.
 
 ## Restoration emergencies common in Cloverleaf
 
@@ -39,4 +39,4 @@ Much of Cloverleaf's housing dates to the mid-20th century, with slab-on-grade c
 
 Harris County's expansive clay soil is a factor across this whole stretch of the metro. It swells when saturated and shrinks when dry, and that movement stresses slab foundations over time, sometimes opening hairline cracks that let moisture in during heavy rain. Because Cloverleaf is unincorporated, permits for structural repair work typically run through Harris County's permitting office rather than a city building department, which is worth knowing before any reconstruction follows a major loss. Homes built before the 1980s may also contain asbestos-containing materials or lead-based paint, both of which affect how a restoration scope is planned and executed.
 
-If water, fire, or storm damage has hit a Cloverleaf property, the sooner a crew gets eyes on it the fewer surfaces and materials end up affected. Call BIONIC Emergency Services LLC at (713) 338-2424 to get a crew scheduled and start the insurance documentation process.
+If water, fire, or storm damage has hit a Cloverleaf property, the sooner a crew gets eyes on it the fewer surfaces and materials end up affected. Call BIONIC Emergency Services at (713) 338-2424 to get a crew scheduled and start the insurance documentation process.

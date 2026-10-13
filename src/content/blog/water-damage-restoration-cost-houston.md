@@ -71,8 +71,8 @@ If you're dealing with standing water right now in Houston, Pasadena, Sugar Land
 
 ---
 
-**About BIONIC Emergency Services LLC**
+**About BIONIC Emergency Services**
 
-BIONIC Emergency Services LLC has served Houston, TX since 2011, with technicians holding IICRC WRT (Water) and IICRC ASD (Structural Drying) certifications. The company is insured, answers calls 24/7, and holds a 4.9-star Google rating across 154 reviews. Founder Shane Dodson and the BIONIC crew handle water damage restoration, water cleanup, fire damage restoration, storm damage restoration, sewage cleanup, and contents restoration across Houston and surrounding Harris, Fort Bend, and Montgomery County communities.
+BIONIC Emergency Services has served Houston, TX since 2011, with technicians holding IICRC WRT (Water) and IICRC ASD (Structural Drying) certifications. The company is insured, answers calls 24/7, and holds a 4.9-star Google rating across 154 reviews. Founder Shane Dodson and the BIONIC crew handle water damage restoration, water cleanup, fire damage restoration, storm damage restoration, sewage cleanup, and contents restoration across Houston and surrounding Harris, Fort Bend, and Montgomery County communities.
 
-**Need help now?** [Call BIONIC Emergency Services LLC at (713) 338-2424](tel:+17133382424).
+**Need help now?** [Call BIONIC Emergency Services at (713) 338-2424](tel:+17133382424).

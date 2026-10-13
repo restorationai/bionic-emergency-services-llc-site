@@ -55,10 +55,10 @@ A small, isolated smell, a candle that smoked up a kitchen, a minor stovetop fla
 - You've cleaned visible soot but the odor returns, especially in humid weather, which points to residue trapped in porous materials.
 - The fire department was involved, which typically means water from suppression efforts is now mixing with smoke residue, a combination that calls for coordinated fire damage restoration rather than odor treatment alone.
 
-If you're in that situation, BIONIC Emergency Services LLC can walk through the property with you and tell you honestly whether it's a cleaning job or a restoration job. That assessment is worth more than guessing and spending money on treatments that won't hold.
+If you're in that situation, BIONIC Emergency Services can walk through the property with you and tell you honestly whether it's a cleaning job or a restoration job. That assessment is worth more than guessing and spending money on treatments that won't hold.
 
 ## The Longer Recovery Timeline
 
 Odor removal isn't a one-visit fix in most real fire situations. Expect source removal and dry cleaning on day one, HVAC inspection and cleaning soon after, and odor neutralization treatments that may need to run for 24 to 72 hours depending on the severity and the materials involved. Painted and sealed surfaces are usually the last step, done only after the odor has actually tested clear, not just smelled clear in the moment. Rushing this sequence, painting before sealing, or skipping duct cleaning to save time, is the single biggest reason smoke odor returns months later.
 
-If you're dealing with lingering smoke odor after a fire, a call to BIONIC Emergency Services LLC at (713) 338-2424 gets you a straight answer on what's actually happening in your walls and ductwork, and what it will take to get rid of it for good.
+If you're dealing with lingering smoke odor after a fire, a call to BIONIC Emergency Services at (713) 338-2424 gets you a straight answer on what's actually happening in your walls and ductwork, and what it will take to get rid of it for good.

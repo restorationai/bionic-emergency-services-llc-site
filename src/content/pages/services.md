@@ -1,6 +1,6 @@
 ---
 archetype: "services-hub"
-title: "Restoration Services in Houston | BIONIC Emergency Services LLC"
+title: "Restoration Services in Houston | BIONIC Emergency Services"
 h1: "Our Restoration Services"
 meta_description: "Full-service restoration in Houston: water, fire, storm, biohazard, and commercial restoration. 24/7 response. Call (713) 338-2424."
 primary_keyword: "restoration services houston"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services"}]
 faq: [{"question": "Do you work on commercial properties or just homes?", "answer": "Both. We handle single-family homes, multi-family buildings, and commercial properties, including offices, retail spaces, and apartment complexes managed by property management companies."}, {"question": "What's the difference between mitigation and reconstruction?", "answer": "Mitigation is the immediate response: extracting water, drying structural materials, removing smoke residue, or securing a damaged opening to stop the loss from getting worse. Reconstruction is the rebuild phase that follows, replacing drywall, flooring, and finishes to bring the property back to its condition before the damage occurred."}, {"question": "Do you handle insurance claims for all of these services?", "answer": "Yes, we document the damage with photos and detailed scope notes for mitigation and reconstruction work alike, and we work with most major carriers throughout the claims process. Bring us in early and that documentation starts from the first day on site."}]
 rendered: true
 ---
-BIONIC Emergency Services LLC handles the full arc of property damage recovery in the Houston area: the urgent mitigation work that stops a loss from spreading, and the reconstruction that brings a home or business back to pre-loss condition. We work with homeowners, property managers, and commercial building owners, and we handle both sides of a claim so you're not coordinating between separate mitigation and rebuild companies during an already stressful situation.
+BIONIC Emergency Services handles the full arc of property damage recovery in the Houston area: the urgent mitigation work that stops a loss from spreading, and the reconstruction that brings a home or business back to pre-loss condition. We work with homeowners, property managers, and commercial building owners, and we handle both sides of a claim so you're not coordinating between separate mitigation and rebuild companies during an already stressful situation.
 
 ## Emergency restoration services
 

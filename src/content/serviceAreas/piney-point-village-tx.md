@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water, fire, and storm losses for homeowners in Piney Point Village, one of the Memorial Villages tucked along Buffalo Bayou in west Houston. Large lots, mature trees, and homes that back up to drainage easements mean water and storm damage here often behaves differently than in a typical subdivision, and we scope each loss with that in mind rather than applying a one-size approach.
+BIONIC Emergency Services handles water, fire, and storm losses for homeowners in Piney Point Village, one of the Memorial Villages tucked along Buffalo Bayou in west Houston. Large lots, mature trees, and homes that back up to drainage easements mean water and storm damage here often behaves differently than in a typical subdivision, and we scope each loss with that in mind rather than applying a one-size approach.
 
 ## Restoration emergencies common in Piney Point Village
 
@@ -37,4 +37,4 @@ From our Houston base, Piney Point Village is a straightforward run along the Me
 
 Most homes in Piney Point Village date from the 1960s through the 1990s, with a mix of brick veneer and wood-frame construction on slab-on-grade foundations, and a smaller share of homes with partial crawlspaces near the bayou's edge. Older homes in this range can still carry galvanized or early copper supply lines and cast iron drain stacks, both of which are past or near the end of their expected service life and are common sources of slow leaks that go unnoticed inside walls. The area's clay-heavy Gulf Coast soil expands and contracts with moisture swings, which stresses slab foundations and can open hairline cracks that let groundwater migrate inward during wet periods. Piney Point Village is an independent municipality within Harris County, and structural repair or rebuild work generally requires a permit through the city before drywall, framing, or electrical work is closed back up, so we coordinate scope documentation accordingly.
 
-If water, fire, or storm damage has hit your Piney Point Village property, call BIONIC Emergency Services LLC at (713) 338-2424 to get a crew scheduled and a clear scope of work started before the damage spreads further.
+If water, fire, or storm damage has hit your Piney Point Village property, call BIONIC Emergency Services at (713) 338-2424 to get a crew scheduled and a clear scope of work started before the damage spreads further.

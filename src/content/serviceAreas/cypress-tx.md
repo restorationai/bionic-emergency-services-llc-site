@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC sends crews into Cypress for water intrusion, fire and smoke damage, and storm-related losses, working directly with property owners and the insurance carriers covering the claim. Cypress sits in the fast-growing northwest corridor of Harris County, and that growth means a mix of older slab homes and new-construction subdivisions, each with its own failure points we plan for before we ever walk in the door.
+BIONIC Emergency Services sends crews into Cypress for water intrusion, fire and smoke damage, and storm-related losses, working directly with property owners and the insurance carriers covering the claim. Cypress sits in the fast-growing northwest corridor of Harris County, and that growth means a mix of older slab homes and new-construction subdivisions, each with its own failure points we plan for before we ever walk in the door.
 
 ## Restoration emergencies common in Cypress
 
@@ -43,4 +43,4 @@ Much of Cypress was built from the 1980s through the 2010s as Harris County's su
 
 Cypress itself is largely unincorporated, so building and repair permits typically run through Harris County Engineering rather than a city building department, and much of the area falls under Harris County Flood Control District drainage oversight. Homeowners associations are common throughout the newer subdivisions and often have their own notification requirements for exterior repair work, which is worth checking before tarping a roof or setting up exterior drying equipment.
 
-If water, fire, or smoke has already hit your Cypress property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll talk through what you're seeing, get the details needed to dispatch a crew, and start documenting the loss for your insurance claim from the first visit.
+If water, fire, or smoke has already hit your Cypress property, call BIONIC Emergency Services at (713) 338-2424. We'll talk through what you're seeing, get the details needed to dispatch a crew, and start documenting the loss for your insurance claim from the first visit.

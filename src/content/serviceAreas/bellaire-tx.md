@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, biohazard cleanup, and reconstruction for homes and businesses in Bellaire, the small independent city tucked inside Houston's Loop 610. Property owners here deal with a specific mix of older housing stock, Gulf Coast clay soil, and a humid subtropical climate that makes water intrusion and secondary damage move faster than in drier regions. We bring documented, insurance-ready scopes of work to every loss, whether it's a slab leak under a 1950s ranch or storm damage to a commercial building near the Southwest Freeway.
+BIONIC Emergency Services handles water damage, fire and smoke damage, biohazard cleanup, and reconstruction for homes and businesses in Bellaire, the small independent city tucked inside Houston's Loop 610. Property owners here deal with a specific mix of older housing stock, Gulf Coast clay soil, and a humid subtropical climate that makes water intrusion and secondary damage move faster than in drier regions. We bring documented, insurance-ready scopes of work to every loss, whether it's a slab leak under a 1950s ranch or storm damage to a commercial building near the Southwest Freeway.
 
 ## Restoration emergencies common in Bellaire
 
@@ -45,4 +45,4 @@ Much of Bellaire's housing was built from the 1940s through the 1960s, with bric
 
 The Gulf Coast clay soil common across the Houston area expands and contracts significantly with moisture changes, which stresses foundations and can crack slab plumbing over time, and the region's high water table slows natural drainage after heavy rain. The City of Bellaire's building department issues permits for structural repair and reconstruction work, and any rebuild following a significant loss typically needs to go through that process before work begins.
 
-If water, fire, smoke, or biohazard damage has hit your Bellaire property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll talk through what's happening, get a crew scheduled, and start documenting the loss for your insurance carrier from the first visit.
+If water, fire, smoke, or biohazard damage has hit your Bellaire property, call BIONIC Emergency Services at (713) 338-2424. We'll talk through what's happening, get a crew scheduled, and start documenting the loss for your insurance carrier from the first visit.

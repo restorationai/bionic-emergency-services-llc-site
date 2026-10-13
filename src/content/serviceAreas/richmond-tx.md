@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, biohazard cleanup, and storm damage repair for homeowners, landlords, and property managers across Richmond, Texas. Crews are dispatched from our Houston headquarters to document the loss, stabilize the structure, and work directly with most major insurance carriers so property owners in Fort Bend County aren't managing the claims process alone while also trying to dry out a house.
+BIONIC Emergency Services handles water damage, fire and smoke damage, biohazard cleanup, and storm damage repair for homeowners, landlords, and property managers across Richmond, Texas. Crews are dispatched from our Houston headquarters to document the loss, stabilize the structure, and work directly with most major insurance carriers so property owners in Fort Bend County aren't managing the claims process alone while also trying to dry out a house.
 
 ## Restoration emergencies common in Richmond
 
@@ -43,4 +43,4 @@ Richmond's building stock spans a historic downtown core with early-to-mid-20th-
 
 The area's expansive clay soils move with seasonal moisture, which stresses foundations and the plumbing running through or beneath them, a common root cause of the slow leaks and slab cracks that bring us out. Portions of Richmond near the Brazos River floodplain carry additional flood-zone considerations that can affect rebuild requirements. Permits for structural repairs, electrical work, and plumbing tied to a restoration project are typically handled through the City of Richmond's building department, and we work within those requirements rather than around them.
 
-If water, fire, smoke, or biohazard damage has hit your Richmond property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll walk through what we're seeing, get the assessment process moving, and start documenting the loss for your insurance carrier.
+If water, fire, smoke, or biohazard damage has hit your Richmond property, call BIONIC Emergency Services at (713) 338-2424. We'll walk through what we're seeing, get the assessment process moving, and start documenting the loss for your insurance carrier.

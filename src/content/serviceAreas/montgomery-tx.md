@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, biohazard cleanup, and the reconstruction work that follows a loss for homes and commercial properties throughout Montgomery, Texas. Montgomery County's mix of historic in-town properties and newer construction around Lake Conroe means every job starts with a different building, and our scopes are written around that, not a one-size answer.
+BIONIC Emergency Services handles water damage, fire and smoke damage, biohazard cleanup, and the reconstruction work that follows a loss for homes and commercial properties throughout Montgomery, Texas. Montgomery County's mix of historic in-town properties and newer construction around Lake Conroe means every job starts with a different building, and our scopes are written around that, not a one-size answer.
 
 ## Restoration emergencies common in Montgomery
 

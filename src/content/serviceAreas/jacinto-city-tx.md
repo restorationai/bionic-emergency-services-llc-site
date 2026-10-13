@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water, fire, storm, and biohazard cleanup for homes and commercial buildings in Jacinto City, working directly with the small frame and brick houses that make up most of the city's housing stock as well as the warehouses and light-industrial buildings along the Ship Channel corridor. Our crews document the loss, dry structures to the IICRC S500 standard, and prepare the paperwork most insurance carriers expect, so property owners aren't left guessing what happens next.
+BIONIC Emergency Services handles water, fire, storm, and biohazard cleanup for homes and commercial buildings in Jacinto City, working directly with the small frame and brick houses that make up most of the city's housing stock as well as the warehouses and light-industrial buildings along the Ship Channel corridor. Our crews document the loss, dry structures to the IICRC S500 standard, and prepare the paperwork most insurance carriers expect, so property owners aren't left guessing what happens next.
 
 ## Restoration emergencies common in Jacinto City
 

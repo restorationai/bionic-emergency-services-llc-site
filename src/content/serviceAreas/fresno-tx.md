@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homeowners and property managers in Fresno, Texas. Working out of our Houston base, we scope the loss, document it for your insurance carrier, and get drying or cleanup equipment running as soon as we're on-site, whether the call is a slab leak under a kitchen floor or storm intrusion after a Gulf Coast downpour.
+BIONIC Emergency Services handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homeowners and property managers in Fresno, Texas. Working out of our Houston base, we scope the loss, document it for your insurance carrier, and get drying or cleanup equipment running as soon as we're on-site, whether the call is a slab leak under a kitchen floor or storm intrusion after a Gulf Coast downpour.
 
 ## Restoration emergencies common in Fresno
 
@@ -45,4 +45,4 @@ Most homes in and around Fresno were built from the 1990s onward as Fort Bend Co
 
 The area's expansive clay soil and high water table put steady pressure on foundations and can slow drainage after heavy rain, which is part of why repeat moisture problems in the same spot are common here. Because Fresno is unincorporated, permits for structural repair or rebuild work typically run through Fort Bend County rather than a city building department, something worth confirming early if your restoration scope grows into reconstruction.
 
-If water, fire, or storm damage has hit your Fresno property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll walk through what we're seeing on-site, what your insurance carrier will need documented, and what the drying or cleanup timeline realistically looks like before any work starts.
+If water, fire, or storm damage has hit your Fresno property, call BIONIC Emergency Services at (713) 338-2424. We'll walk through what we're seeing on-site, what your insurance carrier will need documented, and what the drying or cleanup timeline realistically looks like before any work starts.

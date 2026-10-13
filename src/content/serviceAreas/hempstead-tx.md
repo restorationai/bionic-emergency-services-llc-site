@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC works with Hempstead homeowners, landlords, and small business owners who need water damage, fire damage, storm damage, or biohazard cleanup handled by a crew that treats the job like a job, not a sales pitch. We travel out from our Houston base along US-290 to reach Waller County property owners, documenting the loss for insurance and getting equipment running as soon as we're on site.
+BIONIC Emergency Services works with Hempstead homeowners, landlords, and small business owners who need water damage, fire damage, storm damage, or biohazard cleanup handled by a crew that treats the job like a job, not a sales pitch. We travel out from our Houston base along US-290 to reach Waller County property owners, documenting the loss for insurance and getting equipment running as soon as we're on site.
 
 ## Restoration emergencies common in Hempstead
 
@@ -45,4 +45,4 @@ From our Houston office, the most direct route into Hempstead runs west on US-29
 
 Much of Hempstead's housing stock dates from the mid-20th century forward, with a mix of slab-on-grade ranch homes closer to town and older pier-and-beam construction on larger rural lots, the latter leaving crawlspaces that trap humidity and hide slow leaks. Plumbing in the older homes often means galvanized supply lines or early copper, both of which are well past their expected service life and prone to pinhole leaks and corrosion. Waller County's clay-heavy soils expand and contract with moisture swings, which stresses slab foundations and can open gaps that let water track in along the perimeter. Within Hempstead city limits, the building department handles permits for structural repair and rebuild work; properties outside city limits fall under Waller County's permitting process, and a loss severe enough to touch framing or electrical typically needs one or the other before reconstruction starts.
 
-If water, fire, or storm damage has hit a Hempstead property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll walk you through what to do before we arrive and get a crew moving out US-290 to start mitigating the damage.
+If water, fire, or storm damage has hit a Hempstead property, call BIONIC Emergency Services at (713) 338-2424. We'll walk you through what to do before we arrive and get a crew moving out US-290 to start mitigating the damage.

@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-**Water damage, fire damage, or storm damage in Hockley?** Call (713) 338-2424 for emergency service. BIONIC Emergency Services LLC has been handling water, fire, and storm damage losses across the Houston region since 2011, and that coverage area extends out Highway 290 to Hockley. We work directly with property owners and with insurance carriers to document the loss, start extraction or mitigation, and get a property back to a safe, dry, rebuildable condition.
+**Water damage, fire damage, or storm damage in Hockley?** Call (713) 338-2424 for emergency service. BIONIC Emergency Services has been handling water, fire, and storm damage losses across the Houston region since 2011, and that coverage area extends out Highway 290 to Hockley. We work directly with property owners and with insurance carriers to document the loss, start extraction or mitigation, and get a property back to a safe, dry, rebuildable condition.
 
 ## Restoration emergencies common in Hockley
 
@@ -41,4 +41,4 @@ From our Houston base, Hockley is a straightforward run out US-290 West, which k
 
 Much of Hockley's housing stock is recent, built over the last two decades on slab foundations, though pockets of older rural construction with pier-and-beam or crawlspace foundations remain further from the main corridors. Newer homes run PEX or copper supply lines, while older properties may still carry galvanized pipe that's more prone to internal corrosion and slow leaks. The area's clay-heavy soil expands and contracts with moisture swings, which stresses slab foundations and can crack buried plumbing over time, a common root cause behind the slow leaks we see called in as water damage. Harris County and the relevant local authority handle permitting for structural repair work in unincorporated areas like Hockley, and any rebuild involving framing, electrical, or plumbing beyond simple drywall replacement typically requires a permit before work starts. We account for that in the restoration scope so the repair doesn't stall waiting on inspection.
 
-If water, fire, smoke, or storm damage has hit your Hockley property, don't wait for it to get worse. Call BIONIC Emergency Services LLC at (713) 338-2424 and we'll walk you through what happens next, from documentation for your insurance carrier to the mitigation work itself.
+If water, fire, smoke, or storm damage has hit your Hockley property, don't wait for it to get worse. Call BIONIC Emergency Services at (713) 338-2424 and we'll walk you through what happens next, from documentation for your insurance carrier to the mitigation work itself.

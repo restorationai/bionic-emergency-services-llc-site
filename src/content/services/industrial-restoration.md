@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Industrial Restoration in Houston | BIONIC Emergency Services LLC"
+title: "Industrial Restoration in Houston | BIONIC Emergency Services"
 h1: "Industrial Restoration in Houston"
 meta_description: "24/7 industrial restoration in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "industrial restoration houston"

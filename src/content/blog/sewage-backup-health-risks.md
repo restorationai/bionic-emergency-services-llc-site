@@ -48,7 +48,7 @@ None of this is meant to cause panic, but it's the reason sewage cleanup is trea
 
 A sewage backup is one of the few restoration situations where calling early genuinely changes the outcome, both for your health and for what can be saved in the home. If the backup covers more than a small, isolated area, has been sitting for more than a couple of hours, or involves a floor drain connected to the main sewer line rather than a single fixture, it's past the point of a DIY fix.
 
-BIONIC Emergency Services LLC's technicians hold IICRC WRT and ASD certifications and handle sewage cleanup and sanitization using containment, extraction, and disposal methods built for Category 3 water, not general household cleaning. That includes safely removing contaminated materials that can't be salvaged, treating the structure itself, and documenting the loss for your insurance carrier. If your situation involves standing sewage water in a basement, kitchen, or any living space, call (713) 338-2424 before you start trying to clean it up yourself.
+BIONIC Emergency Services's technicians hold IICRC WRT and ASD certifications and handle sewage cleanup and sanitization using containment, extraction, and disposal methods built for Category 3 water, not general household cleaning. That includes safely removing contaminated materials that can't be salvaged, treating the structure itself, and documenting the loss for your insurance carrier. If your situation involves standing sewage water in a basement, kitchen, or any living space, call (713) 338-2424 before you start trying to clean it up yourself.
 
 ## The Longer Recovery Process
 
@@ -56,4 +56,4 @@ Once the visible sewage is removed, the work isn't finished. Materials that abso
 
 This is also the stage where insurance documentation matters most. Photos, moisture readings, and a clear record of what was removed and why all support your claim, which is harder to put together after the fact if materials have already been thrown out or cleaned over.
 
-If you're dealing with a sewage backup right now, the safest move is to keep people and pets out of the affected area, shut off water use in the house if the backup seems connected to the main line, and get a professional assessment before doing any cleanup yourself. Call BIONIC Emergency Services LLC at (713) 338-2424 to talk through what you're seeing and get the right next step for your home.
+If you're dealing with a sewage backup right now, the safest move is to keep people and pets out of the affected area, shut off water use in the house if the backup seems connected to the main line, and get a professional assessment before doing any cleanup yourself. Call BIONIC Emergency Services at (713) 338-2424 to talk through what you're seeing and get the right next step for your home.

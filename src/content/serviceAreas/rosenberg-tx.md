@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, storm damage, biohazard cleanup, and reconstruction for homeowners and property managers throughout Rosenberg. Our crews travel out from the Houston HQ along US-59/I-69, work directly with most insurance carriers, and scope the loss on-site before any demolition or drying equipment goes in, so you know what's happening to your property and why.
+BIONIC Emergency Services handles water damage, fire and smoke damage, storm damage, biohazard cleanup, and reconstruction for homeowners and property managers throughout Rosenberg. Our crews travel out from the Houston HQ along US-59/I-69, work directly with most insurance carriers, and scope the loss on-site before any demolition or drying equipment goes in, so you know what's happening to your property and why.
 
 ## Restoration emergencies common in Rosenberg
 

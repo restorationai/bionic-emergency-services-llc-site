@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Houston | BIONIC Emergency Services LLC"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Houston | BIONIC Emergency Services"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Houston"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "burst pipe cleanup and repair houston"
@@ -57,6 +57,6 @@ Houston doesn't see the hard freezes that burst pipes in northern climates, but 
 
 ## Service area
 
-BIONIC Emergency Services LLC responds to burst pipe emergencies throughout Houston and the surrounding communities, including homes on slab foundations and multi-story construction common across the metro.
+BIONIC Emergency Services responds to burst pipe emergencies throughout Houston and the surrounding communities, including homes on slab foundations and multi-story construction common across the metro.
 
 If water is actively running from a broken pipe, shut off the main line and call (713) 338-2424 now so extraction and drying can start before the damage spreads any further.

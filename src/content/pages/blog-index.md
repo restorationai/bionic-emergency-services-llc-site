@@ -1,8 +1,8 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | BIONIC Emergency Services LLC"
+title: "Restoration Blog | BIONIC Emergency Services"
 h1: "Restoration Resources and Insights"
-meta_description: "Guides, checklists, and explainers from BIONIC Emergency Services LLC on water, fire, and storm damage restoration."
+meta_description: "Guides, checklists, and explainers from BIONIC Emergency Services on water, fire, and storm damage restoration."
 primary_keyword: "restoration blog houston"
 secondary_keywords: ["restoration guides", "damage restoration tips", "restoration insights"]
 search_intent: "informational_browse"

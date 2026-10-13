@@ -1,8 +1,8 @@
 ---
 archetype: "about"
-title: "About BIONIC Emergency Services LLC | Houston Restoration Company"
-h1: "About BIONIC Emergency Services LLC"
-meta_description: "BIONIC Emergency Services LLC has served Houston since 2011. Meet our IICRC-trained restoration team. Licensed, insured, locally owned."
+title: "About BIONIC Emergency Services | Houston Restoration Company"
+h1: "About BIONIC Emergency Services"
+meta_description: "BIONIC Emergency Services has served Houston since 2011. Meet our IICRC-trained restoration team. Licensed, insured, locally owned."
 primary_keyword: "bionic emergency services llc houston"
 secondary_keywords: ["local restoration company", "iicrc certified restoration", "licensed restoration contractor"]
 search_intent: "navigational_trust"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "About"}]
 faq: []
 rendered: true
 ---
-Restoration work found its way into BIONIC Emergency Services LLC's focus back in 2011, and the reason has stayed the same since: water, fire, and storm damage don't wait for business hours, and most homeowners dealing with it have never had to before. What started as a small operation answering calls around Houston has grown into a dedicated crew that treats every job the same way, whether it's a slab leak under a kitchen or a roof that gave out in a June storm.
+Restoration work found its way into BIONIC Emergency Services's focus back in 2011, and the reason has stayed the same since: water, fire, and storm damage don't wait for business hours, and most homeowners dealing with it have never had to before. What started as a small operation answering calls around Houston has grown into a dedicated crew that treats every job the same way, whether it's a slab leak under a kitchen or a roof that gave out in a June storm.
 
 ## What we do
 

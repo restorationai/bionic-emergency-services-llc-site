@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC works directly with Kemah homeowners, condo associations, and marina-area property managers to handle water intrusion, storm damage, fire and smoke loss, and biohazard situations in the structures that make up this Galveston Bay community. From flood-prone waterfront lots to older frame homes further inland, the crews coordinate with adjusters, document the loss for insurance, and manage the cleanup and rebuild scope so owners aren't juggling multiple contractors.
+BIONIC Emergency Services works directly with Kemah homeowners, condo associations, and marina-area property managers to handle water intrusion, storm damage, fire and smoke loss, and biohazard situations in the structures that make up this Galveston Bay community. From flood-prone waterfront lots to older frame homes further inland, the crews coordinate with adjusters, document the loss for insurance, and manage the cleanup and rebuild scope so owners aren't juggling multiple contractors.
 
 ## Restoration emergencies common in Kemah
 
@@ -37,4 +37,4 @@ Kemah is reached from the Houston HQ primarily via I-45 South to TX-96 or down T
 
 Much of Kemah's housing stock reflects a mix of older bayfront cottages and newer slab-on-grade construction built as the waterfront developed, with a smaller share of raised or pier-and-beam homes near the water that were built to get living space above flood elevation. Plumbing vintage varies accordingly: older homes may still carry galvanized supply lines or early copper, while more recent construction runs PEX, both of which behave differently once water sits against them for days instead of hours. The soil here is coastal clay and fill material with a naturally high water table, which means foundations and crawlspaces stay damp longer after a storm and drainage has to be actively managed rather than assumed. Because much of the city sits in or near mapped flood zones, structural repairs and rebuilds typically require permitting through the local building department, with flood-zone elevation rules playing a real role in how reconstruction scope is designed.
 
-If water, fire, smoke, or storm damage has hit a property in Kemah, call BIONIC Emergency Services LLC at (713) 338-2424 to talk through what's happening and get a scope started. The sooner the moisture path or damage extent gets documented, the simpler the insurance side of the claim tends to go.
+If water, fire, smoke, or storm damage has hit a property in Kemah, call BIONIC Emergency Services at (713) 338-2424 to talk through what's happening and get a scope started. The sooner the moisture path or damage extent gets documented, the simpler the insurance side of the claim tends to go.

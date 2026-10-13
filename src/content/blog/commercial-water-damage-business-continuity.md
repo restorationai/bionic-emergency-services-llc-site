@@ -50,7 +50,7 @@ A small, contained spill from a breakroom sink might genuinely be a mop-and-fan 
 - You need documented drying readings for an insurance claim
 - The space needs to reopen on a schedule, and you need a crew that can work around business hours or phase the work by zone
 
-BIONIC Emergency Services LLC's technicians hold IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) certifications, which means the drying plan follows the same moisture-mapping and monitoring approach adjusters expect to see on a commercial claim. For a leak behind a wall or under a slab that you can't pinpoint by sight, water leak detection equipment can locate the source without opening up more of the structure than necessary.
+BIONIC Emergency Services's technicians hold IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) certifications, which means the drying plan follows the same moisture-mapping and monitoring approach adjusters expect to see on a commercial claim. For a leak behind a wall or under a slab that you can't pinpoint by sight, water leak detection equipment can locate the source without opening up more of the structure than necessary.
 
 ## The Recovery Process, Step by Step
 
@@ -66,4 +66,4 @@ Throughout this process, the biggest continuity win is communication: a clear da
 
 ## Getting Back to Business
 
-A commercial water loss is as much a business problem as it is a structural one. The buildings that reopen fastest are usually the ones where someone knew the shutoff locations, documented the damage early, and brought in a crew that could run extraction, drying, and reconstruction as one coordinated job instead of three separate phone calls. If your Houston property has standing water, a ceiling stain spreading across tiles, or a leak you can hear but can't find, BIONIC Emergency Services LLC can walk the space, scope the damage, and lay out what reopening actually looks like. Call (713) 338-2424 to get a plan started.
+A commercial water loss is as much a business problem as it is a structural one. The buildings that reopen fastest are usually the ones where someone knew the shutoff locations, documented the damage early, and brought in a crew that could run extraction, drying, and reconstruction as one coordinated job instead of three separate phone calls. If your Houston property has standing water, a ceiling stain spreading across tiles, or a leak you can hear but can't find, BIONIC Emergency Services can walk the space, scope the damage, and lay out what reopening actually looks like. Call (713) 338-2424 to get a plan started.

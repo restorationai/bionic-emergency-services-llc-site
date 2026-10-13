@@ -53,7 +53,7 @@ A small, contained kitchen fire that stayed within a stovetop and didn't trigger
 - The fire involved synthetic materials (furniture, electronics, plastics), which produce more corrosive, harder-to-remove residue.
 - You're filing an insurance claim and need documented, professional assessment of the damage.
 
-BIONIC Emergency Services LLC handles fire damage restoration and smoke damage restoration for Houston homes and businesses, starting with an assessment of how far smoke and soot traveled before any cleaning begins.
+BIONIC Emergency Services handles fire damage restoration and smoke damage restoration for Houston homes and businesses, starting with an assessment of how far smoke and soot traveled before any cleaning begins.
 
 ## The Restoration Process, Step by Step
 
@@ -75,4 +75,4 @@ Once a professional crew is on site, the work generally follows a sequence:
 
 Timelines vary widely depending on how much of the structure was affected. A contained fire with minor smoke spread might wrap up in a matter of days; a fire that compromised structural elements or required extensive content cleaning can take weeks.
 
-If you're standing in a house that still smells like smoke, or looking at soot on a wall you're not sure how to clean safely, don't wait for the smell to get worse or the water damage underneath to turn into a bigger problem. Call BIONIC Emergency Services LLC at (713) 338-2424 for an assessment, and document everything with photos before you start cleaning on your own.
+If you're standing in a house that still smells like smoke, or looking at soot on a wall you're not sure how to clean safely, don't wait for the smell to get worse or the water damage underneath to turn into a bigger problem. Call BIONIC Emergency Services at (713) 338-2424 for an assessment, and document everything with photos before you start cleaning on your own.

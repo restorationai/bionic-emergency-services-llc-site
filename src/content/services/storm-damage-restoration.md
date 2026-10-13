@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Storm Damage Restoration in Houston | BIONIC Emergency Services LLC"
+title: "24/7 Emergency Storm Damage Restoration in Houston | BIONIC Emergency Services"
 h1: "24/7 Emergency Storm Damage Restoration in Houston"
 meta_description: "24/7 emergency storm damage restoration in Houston and surrounding areas. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "storm damage restoration houston"
@@ -52,6 +52,6 @@ Houston's hurricane season runs roughly June through November, and tropical syst
 
 ## Service area
 
-BIONIC Emergency Services LLC responds to storm damage across Houston and the surrounding area.
+BIONIC Emergency Services responds to storm damage across Houston and the surrounding area.
 
 If wind or a fallen tree has opened up your roof, walls, or windows, don't wait on the weather to fully clear. Call (713) 338-2424 to get a tarp on the breach and start your storm damage assessment before secondary water damage sets in.

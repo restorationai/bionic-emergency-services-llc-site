@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, storm damage, biohazard cleanup, and reconstruction for homes and buildings in West University Place. Whether a pipe has failed under a slab, a storm has pushed water into a crawlspace, or a kitchen fire has left smoke residue through a house, we document the loss, stabilize the property, and manage the drying, cleaning, or rebuild work the situation calls for.
+BIONIC Emergency Services handles water damage, fire and smoke damage, storm damage, biohazard cleanup, and reconstruction for homes and buildings in West University Place. Whether a pipe has failed under a slab, a storm has pushed water into a crawlspace, or a kitchen fire has left smoke residue through a house, we document the loss, stabilize the property, and manage the drying, cleaning, or rebuild work the situation calls for.
 
 ## Restoration emergencies common in West University Place
 
@@ -39,4 +39,4 @@ Most homes in West University Place were built from the 1920s through the 1950s,
 
 The Gulf Coast clay soil under West University Place expands and contracts with moisture swings, which stresses slab foundations and can open hairline gaps where water tracks in after heavy rain. Because West University Place is its own incorporated city rather than a Houston neighborhood, structural repairs and rebuild work go through the city's own building department rather than Houston's, and most homes here fall under an active HOA or deed-restriction framework that can affect exterior repair materials and timelines. Any scope involving structural drying, demolition, or rebuild should factor in that permitting step early rather than after work has started.
 
-If water, fire, or storm damage has hit your West University Place property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll walk the property, document what's affected for your insurance carrier, and get the drying, cleaning, or rebuild work started on a clear scope and timeline.
+If water, fire, or storm damage has hit your West University Place property, call BIONIC Emergency Services at (713) 338-2424. We'll walk the property, document what's affected for your insurance carrier, and get the drying, cleaning, or rebuild work started on a clear scope and timeline.

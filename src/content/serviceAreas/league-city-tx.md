@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, storm damage, fire and smoke damage, and biohazard cleanup for homeowners and property managers throughout League City. Because the city sits low in the Clear Creek watershed and takes on tropical rainfall most summers, we built our response around the patterns that actually show up here: saturated slab foundations, wind-driven roof leaks, and the secondary damage that follows both if a property sits wet for more than a day or two.
+BIONIC Emergency Services handles water damage, storm damage, fire and smoke damage, and biohazard cleanup for homeowners and property managers throughout League City. Because the city sits low in the Clear Creek watershed and takes on tropical rainfall most summers, we built our response around the patterns that actually show up here: saturated slab foundations, wind-driven roof leaks, and the secondary damage that follows both if a property sits wet for more than a day or two.
 
 ## Restoration emergencies common in League City
 
@@ -45,4 +45,4 @@ Much of League City's housing was built from the 1990s forward, during the area'
 
 The City of League City's building department issues permits for structural repair and reconstruction work tied to storm or water damage, and a loss severe enough to require framing or roofing replacement typically triggers an inspection before cover-up. Flood zone designation varies by property given the proximity to Clear Creek, which affects what repair standards apply in certain areas.
 
-If water, fire, or storm damage has hit your League City property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll walk through what needs to happen first, whether that's extraction, tarping, or documentation for your insurance carrier, and get a plan moving.
+If water, fire, or storm damage has hit your League City property, call BIONIC Emergency Services at (713) 338-2424. We'll walk through what needs to happen first, whether that's extraction, tarping, or documentation for your insurance carrier, and get a plan moving.

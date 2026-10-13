@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-Property owners in Friendswood call BIONIC Emergency Services LLC when water, fire, or storm damage threatens a home or business and the situation can't wait for a slow quote process. We handle the mitigation work, from pulling standing water and drying structural materials to clearing smoke residue and biohazard contamination, and we document everything the way most insurance carriers expect to see it.
+Property owners in Friendswood call BIONIC Emergency Services when water, fire, or storm damage threatens a home or business and the situation can't wait for a slow quote process. We handle the mitigation work, from pulling standing water and drying structural materials to clearing smoke residue and biohazard contamination, and we document everything the way most insurance carriers expect to see it.
 
 ## Restoration emergencies common in Friendswood
 

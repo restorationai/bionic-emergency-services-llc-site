@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Katy, TX | BIONIC Emergency Services LLC"
+title: "Restoration Services in Katy, TX | BIONIC Emergency Services"
 h1: "Restoration Services in Katy"
 meta_description: "Serving Katy, TX with 24/7 water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services katy"
@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homeowners and property managers across Katy, from Cinco Ranch to Old Katy to the newer build-out along the Grand Parkway. We work directly with most major insurance carriers, document the loss as we go, and dry structures to the IICRC S500 standard so the job holds up when the adjuster reviews it.
+BIONIC Emergency Services handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homeowners and property managers across Katy, from Cinco Ranch to Old Katy to the newer build-out along the Grand Parkway. We work directly with most major insurance carriers, document the loss as we go, and dry structures to the IICRC S500 standard so the job holds up when the adjuster reviews it.
 
 ## Restoration emergencies common in Katy
 
@@ -43,4 +43,4 @@ Most of Katy's housing dates from the 1990s through the present building boom, w
 
 Katy sits across parts of Harris, Fort Bend, and Waller counties, so which office issues a permit for structural repair or rebuild depends on the exact address and whether the home falls inside city limits or unincorporated county land. Homes near the reservoirs and lower-lying drainage areas often carry flood-zone designations that affect how repairs are documented for insurance and permitting purposes, so we flag that early in the scope rather than after materials are already removed.
 
-If water, fire, or storm damage has hit your Katy property, call BIONIC Emergency Services LLC at (713) 338-2424. We're available 24/7, and the sooner a wet or smoke-damaged structure gets assessed, the fewer surprises show up once materials start drying out.
+If water, fire, or storm damage has hit your Katy property, call BIONIC Emergency Services at (713) 338-2424. We're available 24/7, and the sooner a wet or smoke-damaged structure gets assessed, the fewer surprises show up once materials start drying out.

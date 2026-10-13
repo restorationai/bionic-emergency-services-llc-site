@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, storm damage, fire and smoke damage, and biohazard cleanup for homeowners and property managers across La Porte, Texas. Call (713) 338-2424 to get a crew scheduled, whether you're dealing with a roof leak after the last gulf system rolled through or standing water in a slab home near the ship channel. We document the loss for your insurance carrier and scope the work to the materials actually affected, not a guess.
+BIONIC Emergency Services handles water damage, storm damage, fire and smoke damage, and biohazard cleanup for homeowners and property managers across La Porte, Texas. Call (713) 338-2424 to get a crew scheduled, whether you're dealing with a roof leak after the last gulf system rolled through or standing water in a slab home near the ship channel. We document the loss for your insurance carrier and scope the work to the materials actually affected, not a guess.
 
 ## Restoration emergencies common in La Porte
 

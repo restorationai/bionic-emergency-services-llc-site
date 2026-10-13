@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC responds to water, fire, smoke, storm, and biohazard losses throughout Aldine, an unincorporated Harris County community just north of Houston along the I-45 corridor. Property owners here deal with flat Gulf Coast drainage, heavy clay soils, and a building stock that spans mid-century slab homes to newer construction, each with its own failure points. We scope the loss, document it for your insurance carrier, and get drying or cleanup equipment running without delay.
+BIONIC Emergency Services responds to water, fire, smoke, storm, and biohazard losses throughout Aldine, an unincorporated Harris County community just north of Houston along the I-45 corridor. Property owners here deal with flat Gulf Coast drainage, heavy clay soils, and a building stock that spans mid-century slab homes to newer construction, each with its own failure points. We scope the loss, document it for your insurance carrier, and get drying or cleanup equipment running without delay.
 
 ## Restoration emergencies common in Aldine
 
@@ -37,4 +37,4 @@ Aldine sits directly off I-45 North, with Beltway 8 and the Hardy Toll Road offe
 
 Much of Aldine's housing dates from the mid-20th century through the 1980s, with slab-on-grade construction, brick veneer or wood siding, and asphalt shingle roofs dominating the area, alongside newer infill construction on the same foundation type. Older homes may still carry galvanized supply lines or early copper, both of which are well past their expected service life and prone to pinhole leaks; homes built before the 1980s can also contain asbestos-containing materials in flooring, siding, or insulation, which changes how a demolition scope is handled. The region's clay-heavy soil expands and contracts with moisture swings, putting ongoing stress on slab foundations and the plumbing that runs through them. Because Aldine is unincorporated, permitting for structural repair or rebuild work typically runs through Harris County rather than a city building department, and any scope involving load-bearing work or significant reconstruction should account for that review process from the start.
 
-If water, fire, storm, or biohazard damage has hit your Aldine home or building, call BIONIC Emergency Services LLC at (713) 338-2424. We'll walk you through next steps, get a crew scoped and scheduled, and work directly with your insurance carrier so the paperwork isn't one more thing on your plate.
+If water, fire, storm, or biohazard damage has hit your Aldine home or building, call BIONIC Emergency Services at (713) 338-2424. We'll walk you through next steps, get a crew scoped and scheduled, and work directly with your insurance carrier so the paperwork isn't one more thing on your plate.

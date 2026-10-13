@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homes and businesses throughout Jersey Village. Our crews travel northwest from our Houston base along US-290 and Beltway 8, the two corridors that frame the city, to document the loss, stabilize the structure, and work directly with property insurance carriers so owners are not left guessing about next steps.
+BIONIC Emergency Services handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homes and businesses throughout Jersey Village. Our crews travel northwest from our Houston base along US-290 and Beltway 8, the two corridors that frame the city, to document the loss, stabilize the structure, and work directly with property insurance carriers so owners are not left guessing about next steps.
 
 ## Restoration emergencies common in Jersey Village
 
@@ -43,4 +43,4 @@ Jersey Village is roughly a 25 to 30 minute drive from our Houston location depe
 
 Much of Jersey Village was built from the 1960s through the 1980s, largely slab-on-grade construction with brick veneer or wood siding over wood framing, which means water intrusion tends to move laterally under flooring rather than pooling in a basement, since basements are uncommon in this part of Texas. Plumbing from that era is a mix of copper and galvanized steel supply lines with cast iron drains, both of which are well past their expected service life in many homes and prone to pinhole leaks and joint failures. The region's expansive clay soil shifts with seasonal moisture swings, which stresses slab foundations and can reopen cracks that let water track in during heavy rain. As its own incorporated city, Jersey Village issues building permits through its municipal building department, and structural repairs following a significant water or fire loss typically require a permit before reconstruction begins.
 
-If water, fire, storm, or a biohazard situation has hit your Jersey Village property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll walk you through what to expect, get a crew scheduled, and start the documentation your insurance claim will need from day one.
+If water, fire, storm, or a biohazard situation has hit your Jersey Village property, call BIONIC Emergency Services at (713) 338-2424. We'll walk you through what to expect, get a crew scheduled, and start the documentation your insurance claim will need from day one.

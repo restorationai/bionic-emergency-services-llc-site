@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage restoration, fire and smoke cleanup, biohazard cleanup, storm damage, and reconstruction for homes and businesses in Dickinson, TX. Crews are dispatched from our Houston headquarters down I-45 South, and we work directly with property owners and insurance carriers so the paperwork doesn't stall the cleanup. Call (713) 338-2424 to get a crew scoped and moving.
+BIONIC Emergency Services handles water damage restoration, fire and smoke cleanup, biohazard cleanup, storm damage, and reconstruction for homes and businesses in Dickinson, TX. Crews are dispatched from our Houston headquarters down I-45 South, and we work directly with property owners and insurance carriers so the paperwork doesn't stall the cleanup. Call (713) 338-2424 to get a crew scoped and moving.
 
 ## Restoration emergencies common in Dickinson
 
@@ -37,4 +37,4 @@ Dickinson sits roughly 30 miles south of our Houston base via I-45, putting it w
 
 Much of Dickinson's housing stock dates from the 1960s through the 1990s, with slab-on-grade wood-frame and brick-veneer construction dominating residential streets. Slab foundations mean water intrusion tends to travel laterally under flooring and baseboards rather than pooling in a basement, which changes how a drying plan has to be built. Homes from the earlier end of that era may still carry galvanized supply lines or original cast-iron drain stacks, both of which are past their expected service life and prone to pinhole leaks or backups. The area's clay-heavy coastal soils hold water and shrink and swell with moisture changes, which stresses slab foundations over time and can open new paths for water entry near plumbing penetrations. Structural repairs and rebuild work typically require a permit through the City of Dickinson's building department, and homes in flood-prone sections of the city may fall under additional flood-zone requirements that affect how repairs are scoped and elevated.
 
-If water, fire, smoke, or storm damage has hit your Dickinson property, don't wait for it to get worse. Call BIONIC Emergency Services LLC at (713) 338-2424 and we'll walk you through next steps, documentation, and scheduling.
+If water, fire, smoke, or storm damage has hit your Dickinson property, don't wait for it to get worse. Call BIONIC Emergency Services at (713) 338-2424 and we'll walk you through next steps, documentation, and scheduling.

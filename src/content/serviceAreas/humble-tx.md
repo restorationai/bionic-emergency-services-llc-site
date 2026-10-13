@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homeowners and property managers in Humble, Texas. We've worked out of Houston since 2011, and the US-59/I-69 corridor puts us close enough to Humble that a flooded utility room or a storm-damaged roof doesn't mean waiting half the day for a crew to show up.
+BIONIC Emergency Services handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homeowners and property managers in Humble, Texas. We've worked out of Houston since 2011, and the US-59/I-69 corridor puts us close enough to Humble that a flooded utility room or a storm-damaged roof doesn't mean waiting half the day for a crew to show up.
 
 ## Restoration emergencies common in Humble
 
@@ -47,4 +47,4 @@ Plumbing in older sections tends toward copper supply lines and cast iron or ear
 
 Structural repairs and rebuild work within Humble city limits go through the City of Humble's building department, while some surrounding areas fall under Harris County permitting instead. Either way, anything beyond cosmetic repair after a major water or fire loss typically needs a permit before work closes up walls or ceilings.
 
-If water, fire, smoke, or storm damage has hit your Humble property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll talk through what you're seeing, get a crew routed up US-59, and start documenting the loss for your insurance carrier from the first visit.
+If water, fire, smoke, or storm damage has hit your Humble property, call BIONIC Emergency Services at (713) 338-2424. We'll talk through what you're seeing, get a crew routed up US-59, and start documenting the loss for your insurance carrier from the first visit.

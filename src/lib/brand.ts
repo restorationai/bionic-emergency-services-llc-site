@@ -4,7 +4,7 @@
 
 export const brand = {
   slug: "bionic-emergency-services-llc",
-  displayName: "BIONIC Emergency Services LLC",
+  displayName: "BIONIC Emergency Services",
   shortName: "BIONIC",
   legalName: "BIONIC Emergency Services LLC",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
@@ -12,7 +12,7 @@ export const brand = {
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "",
+  dbaName: "BIONIC Emergency Services - 24/7 Emergency Water & Fire Damage Restoration",
   domain: "bionic24365.com",
   canonicalUrl: "https://bionic24365.com",
   phone: "(713) 338-2424",
@@ -94,7 +94,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "BIONIC Emergency Services LLC serves Houston and the surrounding TX area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "BIONIC Emergency Services serves Houston and the surrounding TX area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

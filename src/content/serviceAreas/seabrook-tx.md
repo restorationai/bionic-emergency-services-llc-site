@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, storm damage, fire and smoke damage, and reconstruction for homes and businesses throughout Seabrook, Texas. Our Houston-based crews travel down Texas 146 to reach Galveston Bay waterfront properties, Clear Lake-area homes, and the commercial buildings along the Seabrook shoreline, working directly with property owners and insurance carriers to get a loss documented and drying started without delay.
+BIONIC Emergency Services handles water damage, storm damage, fire and smoke damage, and reconstruction for homes and businesses throughout Seabrook, Texas. Our Houston-based crews travel down Texas 146 to reach Galveston Bay waterfront properties, Clear Lake-area homes, and the commercial buildings along the Seabrook shoreline, working directly with property owners and insurance carriers to get a loss documented and drying started without delay.
 
 ## Restoration emergencies common in Seabrook
 

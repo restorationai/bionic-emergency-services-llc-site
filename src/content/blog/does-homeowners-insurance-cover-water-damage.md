@@ -60,4 +60,4 @@ It's also worth calling before you start tearing out materials yourself. Cutting
 
 None of this requires you to be an insurance expert. It just requires moving in the right order: stop the water, document it, call the carrier, and get the structure drying before the clock works against you.
 
-If you're staring at a wet ceiling or a soaked carpet and trying to figure out what happens next, BIONIC Emergency Services LLC provides water damage restoration for Houston homeowners and can help document the loss and begin drying the structure. Call (713) 338-2424 to talk through what you're seeing and what steps make sense for your situation.
+If you're staring at a wet ceiling or a soaked carpet and trying to figure out what happens next, BIONIC Emergency Services provides water damage restoration for Houston homeowners and can help document the loss and begin drying the structure. Call (713) 338-2424 to talk through what you're seeing and what steps make sense for your situation.

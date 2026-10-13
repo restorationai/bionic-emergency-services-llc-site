@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC works with Magnolia homeowners and property managers on water extraction, structural drying, fire and smoke cleanup, and biohazard cleanup when a property takes on damage that can't wait for a slow fix. We document the loss for insurance, set up drying or cleanup equipment on site, and coordinate the scope of repair work so the property owner isn't juggling three different contractors mid-crisis.
+BIONIC Emergency Services works with Magnolia homeowners and property managers on water extraction, structural drying, fire and smoke cleanup, and biohazard cleanup when a property takes on damage that can't wait for a slow fix. We document the loss for insurance, set up drying or cleanup equipment on site, and coordinate the scope of repair work so the property owner isn't juggling three different contractors mid-crisis.
 
 ## Restoration emergencies common in Magnolia
 
@@ -41,4 +41,4 @@ From our Houston base, Magnolia is reachable via Highway 249 (Tomball Parkway) n
 
 Magnolia's housing stock ranges from older rural homes and farmhouses to newer slab-on-grade subdivisions built during the area's growth over the last two decades, with wood-frame construction and brick or vinyl siding dominating. Older properties may still carry galvanized supply lines or cast iron drains that corrode or crack with age, and homes built before the 1980s can contain asbestos-containing materials or lead paint that a restoration scope has to account for before demolition begins. The region's expansive clay soil shifts with moisture, which stresses slab foundations and plumbing penetrations over time and is a frequent contributor to slow leaks. Permits for structural repair or rebuild work in Magnolia are typically handled through the City of Magnolia for properties within city limits, or through Montgomery County for homes just outside them, and most structural or plumbing repairs tied to a restoration job will trigger a permit review.
 
-If water or fire damage has hit your Magnolia property, call BIONIC Emergency Services LLC at (713) 338-2424 to get a crew scheduled and the damage scope documented before it spreads further.
+If water or fire damage has hit your Magnolia property, call BIONIC Emergency Services at (713) 338-2424 to get a crew scheduled and the damage scope documented before it spreads further.

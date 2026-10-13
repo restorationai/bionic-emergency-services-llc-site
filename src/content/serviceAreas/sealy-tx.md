@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, biohazard cleanup, and reconstruction for homeowners and property managers in Sealy. We've worked the Houston metro corridor, including Austin County, since 2011, and we know the difference between a Sealy slab home with a slow foundation leak and a pier-and-beam place near the Brazos floodplain that takes on water from underneath. Call us directly to get a crew scheduled.
+BIONIC Emergency Services handles water damage, fire and smoke damage, biohazard cleanup, and reconstruction for homeowners and property managers in Sealy. We've worked the Houston metro corridor, including Austin County, since 2011, and we know the difference between a Sealy slab home with a slow foundation leak and a pier-and-beam place near the Brazos floodplain that takes on water from underneath. Call us directly to get a crew scheduled.
 
 ## Restoration emergencies common in Sealy
 

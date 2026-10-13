@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homes and businesses across South Houston, a small Harris County city wedged between Houston and Pasadena along the Gulf Coast's flood-prone flatlands. We've worked the Houston metro since 2011, and South Houston's mix of older frame houses, ship-channel-adjacent industry, and bayou drainage means the calls we get here follow patterns different from what you'd see further inland.
+BIONIC Emergency Services handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homes and businesses across South Houston, a small Harris County city wedged between Houston and Pasadena along the Gulf Coast's flood-prone flatlands. We've worked the Houston metro since 2011, and South Houston's mix of older frame houses, ship-channel-adjacent industry, and bayou drainage means the calls we get here follow patterns different from what you'd see further inland.
 
 ## Restoration emergencies common in South Houston
 
@@ -45,4 +45,4 @@ Much of South Houston's housing dates to the mid-20th century, with wood-frame c
 
 The area's clay soil expands and contracts with moisture swings, which stresses slab foundations over time and can open hairline cracks that let groundwater migrate inward after heavy rain. Structural repairs and rebuild work typically require a permit through the City of South Houston's building department, and flood-zone considerations are relevant given the city's low elevation and bayou-adjacent drainage, something worth checking before any major repair begins.
 
-If water, fire, storm, or biohazard damage has hit your South Houston property, call BIONIC Emergency Services LLC at (713) 338-2424. We'll walk you through what to expect, document the damage for your insurance claim, and get a crew moving toward a straightforward scope of work, not a guessing game.
+If water, fire, storm, or biohazard damage has hit your South Houston property, call BIONIC Emergency Services at (713) 338-2424. We'll walk you through what to expect, document the damage for your insurance claim, and get a crew moving toward a straightforward scope of work, not a guessing game.

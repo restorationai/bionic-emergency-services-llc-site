@@ -1,7 +1,7 @@
 ---
 archetype: "contact"
-title: "Contact BIONIC Emergency Services LLC | 24/7 Restoration in Houston"
-h1: "Contact BIONIC Emergency Services LLC"
+title: "Contact BIONIC Emergency Services | 24/7 Restoration in Houston"
+h1: "Contact BIONIC Emergency Services"
 meta_description: "Call (713) 338-2424 for 24/7 emergency restoration in Houston and surrounding areas. Free evaluations. Direct insurance billing."
 primary_keyword: "bionic emergency services llc contact"
 secondary_keywords: ["restoration company contact", "24/7 restoration phone", "emergency restoration near me"]
@@ -27,4 +27,4 @@ Not every call is an emergency. If you're looking for a scheduled evaluation, ha
 
 ## Where we're located
 
-BIONIC Emergency Services LLC is based at 14300 Northwest Freeway, Suite A9, Houston, TX 77040. From there we run crews across the greater Houston area, including neighborhoods close to home and communities out toward Katy, Sugar Land, Spring, and The Woodlands. If you're unsure whether you fall inside our service area, call and ask. It's faster than guessing, and if we can't get to you, we'll say so right away.
+BIONIC Emergency Services is based at 14300 Northwest Freeway, Suite A9, Houston, TX 77040. From there we run crews across the greater Houston area, including neighborhoods close to home and communities out toward Katy, Sugar Land, Spring, and The Woodlands. If you're unsure whether you fall inside our service area, call and ask. It's faster than guessing, and if we can't get to you, we'll say so right away.

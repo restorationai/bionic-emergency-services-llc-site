@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homes and businesses throughout Atascocita, dispatching crews from our Houston base to board up a storm-damaged roof, extract standing water from a flooded first floor, or begin drying out a home after a plumbing failure. We document the loss for insurance, work the structure down to dry, sanitary conditions, and coordinate the cleanup so property owners aren't managing it alone.
+BIONIC Emergency Services handles water damage, fire and smoke damage, storm damage, and biohazard cleanup for homes and businesses throughout Atascocita, dispatching crews from our Houston base to board up a storm-damaged roof, extract standing water from a flooded first floor, or begin drying out a home after a plumbing failure. We document the loss for insurance, work the structure down to dry, sanitary conditions, and coordinate the cleanup so property owners aren't managing it alone.
 
 ## Restoration emergencies common in Atascocita
 

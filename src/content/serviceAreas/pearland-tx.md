@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Pearland, TX | BIONIC Emergency Services LLC"
+title: "Restoration Services in Pearland, TX | BIONIC Emergency Services"
 h1: "Restoration Services in Pearland"
 meta_description: "Serving Pearland, TX with 24/7 water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services pearland"
@@ -19,7 +19,7 @@ state: "TX"
 primary: false
 rendered: true
 ---
-BIONIC Emergency Services LLC handles water damage, storm damage, fire and smoke damage, and biohazard cleanup for homes and businesses throughout Pearland, from Shadow Creek Ranch to the older streets around Old Townsite. We answer 24/7, document the loss for insurance, and get equipment running the same day we're called, whether that's a slab leak in Silverlake or storm intrusion near Clear Creek.
+BIONIC Emergency Services handles water damage, storm damage, fire and smoke damage, and biohazard cleanup for homes and businesses throughout Pearland, from Shadow Creek Ranch to the older streets around Old Townsite. We answer 24/7, document the loss for insurance, and get equipment running the same day we're called, whether that's a slab leak in Silverlake or storm intrusion near Clear Creek.
 
 ## Restoration emergencies common in Pearland
 

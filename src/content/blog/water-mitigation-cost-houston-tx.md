@@ -83,6 +83,6 @@ If you're dealing with standing water right now, getting a moisture assessment s
 
 ---
 
-**About BIONIC Emergency Services LLC**
+**About BIONIC Emergency Services**
 
-BIONIC Emergency Services LLC has served Houston, TX since 2011, with technicians holding IICRC WRT (Water Restoration Technician) and ASD (Applied Structural Drying) credentials. The company is locally owned and operated, answers calls 24/7, and handles water damage restoration, water cleanup, sewage cleanup, storm damage restoration, fire and smoke damage restoration, and contents restoration and storage across Houston and the surrounding Gulf Coast region, from Meyerland to The Woodlands.
+BIONIC Emergency Services has served Houston, TX since 2011, with technicians holding IICRC WRT (Water Restoration Technician) and ASD (Applied Structural Drying) credentials. The company is locally owned and operated, answers calls 24/7, and handles water damage restoration, water cleanup, sewage cleanup, storm damage restoration, fire and smoke damage restoration, and contents restoration and storage across Houston and the surrounding Gulf Coast region, from Meyerland to The Woodlands.
