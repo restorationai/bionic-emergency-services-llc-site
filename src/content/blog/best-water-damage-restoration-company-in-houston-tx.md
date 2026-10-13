@@ -57,13 +57,13 @@ Water Damage Restoration Houston shows a 5.0-star rating, though with a smaller 
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC-Trained Technicians |
 |---|---|---|---|---|
-| BIONIC |, |, |, | Yes |
-| Dry Force - Houston Water Damage Restoration | 4.8 | 337 |, |, |
-| DryMore | 5.0 | 138 |, |, |
-| United Water Restoration Group of Houston | 4.8 | 64 |, |, |
-| Water Damage Restoration Houston | 5.0 | 13 |, |, |
+| BIONIC | 4.9 | 154 | Yes | Yes |
+| Dry Force - Houston Water Damage Restoration | 4.8 | 337 | Not verified | Not verified |
+| DryMore | 5.0 | 138 | Not verified | Not verified |
+| United Water Restoration Group of Houston | 4.8 | 64 | Not verified | Not verified |
+| Water Damage Restoration Houston | 5.0 | 13 | Not verified | Not verified |
 
-(", " indicates information not independently verifiable at the time of writing. Confirm current certification status and availability directly with any company before booking.)
+("Not verified" indicates information not independently verifiable at the time of writing. Confirm current certification status and availability directly with any company before booking.)
 
 ## What Actually Matters When You're Choosing
 
