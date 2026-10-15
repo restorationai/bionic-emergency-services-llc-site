@@ -79,10 +79,10 @@ Fire damage restoration happens in a defined sequence: assessment, water extract
 
 Call a restoration company before you call a contractor or start cleaning yourself, because the first 24 to 48 hours determine whether soot etches permanently into surfaces and whether odor sets into porous materials. Once the fire department clears the structure as safe to re-enter, the clock is running on soot damage, not the clock on insurance paperwork.
 
-BIONIC Emergency Services LLC handles fire damage assessment, soot and debris cleanup, odor treatment, and the insurance documentation that supports your claim for homes across Houston, including Heights bungalows, Meyerland ranch homes, and newer builds out toward Katy and Sugar Land. [Call BIONIC Emergency Services at (713) 338-2424](tel:+17133382424) to schedule an on-site assessment and get a written scope of work before any work begins.
+BIONIC Emergency Services handles fire damage assessment, soot and debris cleanup, odor treatment, and the insurance documentation that supports your claim for homes across Houston, including Heights bungalows, Meyerland ranch homes, and newer builds out toward Katy and Sugar Land. [Call BIONIC Emergency Services at (713) 338-2424](tel:+17133382424) to schedule an on-site assessment and get a written scope of work before any work begins.
 
 ---
 
 **About BIONIC Emergency Services**
 
-BIONIC Emergency Services LLC is a locally owned restoration company serving Houston, TX and the surrounding region since 2011. Its technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and follow IICRC standards for every loss type they handle, including fire damage restoration, smoke damage restoration, water cleanup, and storm damage restoration. The company is insured and operates 24/7 across Houston neighborhoods from the Heights to Meyerland and out to Pearland, Sugar Land, and The Woodlands.
+BIONIC Emergency Services is a locally owned restoration company serving Houston, TX and the surrounding region since 2011. Its technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and follow IICRC standards for every loss type they handle, including fire damage restoration, smoke damage restoration, water cleanup, and storm damage restoration. The company is insured and operates 24/7 across Houston neighborhoods from the Heights to Meyerland and out to Pearland, Sugar Land, and The Woodlands.
