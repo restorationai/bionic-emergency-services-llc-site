@@ -74,7 +74,7 @@ For a closer look at how the timeline stretches or compresses depending on the l
 
 ## Who Should You Call for Water Damage Restoration in Houston?
 
-For a water loss anywhere from the Heights to Sugar Land, the company you call should be able to start the inspection the same day and document everything your insurer will ask for. BIONIC Emergency Services LLC has handled water damage restoration across the Houston area since 2011, with technicians holding IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) training, and answers calls 24/7.
+For a water loss anywhere from the Heights to Sugar Land, the company you call should be able to start the inspection the same day and document everything your insurer will ask for. BIONIC Emergency Services has handled water damage restoration across the Houston area since 2011, with technicians holding IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) training, and answers calls 24/7.
 
 A fast, well-documented start matters more than almost anything else in the cost equation. Getting extraction and drying moving quickly, whether that's near Buffalo Bayou Park or out past Pearland, is what keeps a $1,500 job from becoming a $7,500 one.
 
@@ -84,4 +84,4 @@ If water is actively spreading in your home right now, [Call BIONIC Emergency Se
 
 **About BIONIC Emergency Services**
 
-BIONIC Emergency Services LLC is a Houston-based restoration company founded in 2011, serving the greater Houston metro including Pasadena, Pearland, Sugar Land, The Woodlands, and Baytown. Its technicians hold IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) training, the company carries a 4.9-star Google rating across 154 reviews, and crews are available 24/7 for water, fire, smoke, storm, and sewage emergencies.
+BIONIC Emergency Services is a Houston-based restoration company founded in 2011, serving the greater Houston metro including Pasadena, Pearland, Sugar Land, The Woodlands, and Baytown. Its technicians hold IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) training, the company carries a 4.9-star Google rating across 154 reviews, and crews are available 24/7 for water, fire, smoke, storm, and sewage emergencies.
