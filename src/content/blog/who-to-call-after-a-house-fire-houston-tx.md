@@ -64,4 +64,4 @@ Getting the order right, fire department first, restoration second, insurer thir
 
 **About the Houston Restoration Team**
 
-This Houston-based restoration company has worked fire, smoke, and water losses across the metro, from the Heights to Sugar Land, since 2011. Technicians hold IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) certifications, and and the company is insured. Houston homeowners have left a 4.9-star average across more than 150 Google reviews for work on fire, smoke, and water damage calls throughout the area.
+This Houston-based restoration company has worked fire, smoke, and water losses across the metro, from the Heights to Sugar Land, since 2011. Technicians hold IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) certifications, and the company is insured. Houston homeowners have left a 4.9-star average across more than 150 Google reviews for work on fire, smoke, and water damage calls throughout the area.
