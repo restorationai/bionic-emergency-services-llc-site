@@ -32,7 +32,7 @@ Anyone can show up with a wet vac after a storm. What's harder to fake is a comp
 
 ## Does the company actually answer the phone 24/7 during a hurricane?
 
-Yes, that's the first thing to confirm, because storms don't wait for business hours and neither should your call get routed to voicemail.
+That's the first thing to confirm, because storms don't wait for business hours, and your call shouldn't end up in voicemail.
 
 BIONIC Emergency Services operates on a 24/7 line, which matters most in the 48 hours after a named storm, when power is out across half the city and standing water is already soaking into drywall. If a company can't confirm live phone coverage overnight and on weekends, ask directly how after-hours calls get handled before you need them to.
 
