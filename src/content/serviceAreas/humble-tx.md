@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Humble, TX | BIONIC Services LLC"
+title: "Restoration Services in Humble, TX | BIONIC Emergency Services"
 h1: "Restoration Services in Humble"
 meta_description: "Serving Humble, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services humble"

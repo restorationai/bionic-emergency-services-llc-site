@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Magnolia, TX | BIONIC Services LLC"
+title: "Emergency Water Damage Restoration in Magnolia, TX | BIONIC Emergency Services"
 h1: "Emergency Water Damage Restoration in Magnolia"
 meta_description: "Emergency water damage restoration in Magnolia, TX. IICRC-trained technicians, insurance billing accepted. Call (713) 338-2424."
 primary_keyword: "water damage restoration magnolia"
