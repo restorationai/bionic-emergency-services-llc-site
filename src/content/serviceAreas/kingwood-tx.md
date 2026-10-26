@@ -23,7 +23,7 @@ BIONIC Emergency Services handles water, fire, storm, and biohazard losses for h
 
 ## Restoration emergencies common in Kingwood
 
-Kingwood sits along the West Fork of the San Jacinto River, just upstream of Lake Houston, and that geography shapes the kind of losses property owners deal with here. Heavy rain events push river levels up fast, and homes near the water or in low-lying pockets can see water intrusion that outpaces what gutters and storm drains can handle. Add in a humid subtropical climate with a long, active hurricane season, and the combination of wind-driven rain, tree damage from mature pine and hardwood canopies, and occasional prolonged power outages creates conditions for both acute flood events and slower problems, like a roof leak that goes unnoticed until significant secondary damage has set in within an attic or wall cavity.
+Kingwood sits along the West Fork of the San Jacinto River, just upstream of Lake Houston, and that geography shapes the kind of losses property owners deal with here. Heavy rain events push river levels up fast, and homes near the water or in low-lying pockets can see water intrusion that outpaces what gutters and storm drains can handle. Add in a humid subtropical climate with a long, active hurricane season, and the combination of wind-driven rain, tree damage from mature pine and hardwood canopies, and occasional prolonged power outages creates conditions for both acute flood events and slower problems, like a roof leak that goes unnoticed until significant secondary damage has set in within an attic or wall cavity. The same river and lake system drives losses just downstream in [Atascocita](/service-areas/atascocita-tx/), on Lake Houston's western shore.
 
 ## Services we provide in Kingwood
 
