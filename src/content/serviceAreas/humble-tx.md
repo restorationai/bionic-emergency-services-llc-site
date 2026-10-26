@@ -33,7 +33,7 @@ Fire and smoke damage calls in this area frequently involve kitchen fires or ele
 
 Storm damage follows the same weather pattern that drives the flooding: wind-driven rain finding its way through roof penetrations, fascia, and window flashing during the same systems that flood yards. We board up openings and tarp roofs to stop further intrusion while repairs are scoped.
 
-Biohazard cleanup covers sewage backups, which are a real issue in low-lying parts of Humble where storm surge can push wastewater back through drain lines, along with other biohazard situations that require trained handling and proper disposal.
+Biohazard cleanup covers sewage backups, which are a real issue in low-lying parts of Humble where heavy rain can overwhelm municipal sewer lines and push wastewater back through drain lines, along with other biohazard situations that require trained handling and proper disposal.
 
 ## Coverage and how fast we can get there
 
