@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Kingwood, TX | BIONIC Services LLC"
+title: "Restoration Services in Kingwood, TX | BIONIC Emergency Services"
 h1: "Restoration Services in Kingwood"
 meta_description: "Serving Kingwood, TX with water, fire, and storm damage restoration. IICRC-trained team. Call (713) 338-2424."
 primary_keyword: "restoration services kingwood"
