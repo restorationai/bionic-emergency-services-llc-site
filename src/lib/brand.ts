@@ -72,14 +72,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "154",
+  gbpReviewCount: "155",
   gbpReviews: [
+    { author: "Karen", rating: 5, text: "Tony Saiz did an outstanding job. Since I was off site, he kept me informed every step of the way. He also gave me the name of someone to repair the sheetrock. It was late on Saturday when the leak occurred. He came late and stayed until he was done.", when: "October 2026" },
     { author: "Jasmine", rating: 5, text: "Very professional and proficient.", when: "August 2026" },
     { author: "Jim", rating: 5, text: "They were very through and did a beautiful job! I highly recommend their services!", when: "August 2026" },
     { author: "Eric", rating: 5, text: "Shane is the man! Extremely professional and does outstanding work. High recommended service provider 👍🏼", when: "August 2026" },
     { author: "Kat", rating: 5, text: "Jesus and everyone else were wonderful. Great company!!", when: "August 2026" },
     { author: "Adam", rating: 5, text: "Great experience they were attentive to detail and explained everything throughout the process of getting our house back to the way it was before the pipe busted", when: "August 2026" },
-    { author: "Marcus", rating: 5, text: "I was out of town when one of our pipes began to leak. My wife was home and had to deal with the whole mess by herself. Our Bionic Project Supervisor, Tristan Rodriguez made the process easy to understand and walked my wife through the whole process to where she was comfortable. He explained…", when: "May 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Houston, TX.",
   // optional custom insurance positioning line (Hero renders only when set)
