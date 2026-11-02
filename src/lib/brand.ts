@@ -72,7 +72,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "155",
+  gbpReviewCount: "156",
   gbpReviews: [
     { author: "Karen", rating: 5, text: "Tony Saiz did an outstanding job. Since I was off site, he kept me informed every step of the way. He also gave me the name of someone to repair the sheetrock. It was late on Saturday when the leak occurred. He came late and stayed until he was done.", when: "October 2026" },
     { author: "Jasmine", rating: 5, text: "Very professional and proficient.", when: "August 2026" },
