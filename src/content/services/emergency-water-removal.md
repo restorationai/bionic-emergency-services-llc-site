@@ -59,6 +59,6 @@ Houston's humidity keeps ambient moisture high most of the year, which slows nat
 
 ## Service area
 
-BIONIC Emergency Services responds to water emergencies across Houston and the surrounding communities throughout Harris County and the greater Gulf Coast region.
+BIONIC Emergency Services responds to water emergencies throughout Houston and the surrounding communities.
 
 If you're standing over wet flooring right now, don't wait for it to dry on its own. Call (713) 338-2424 to schedule emergency water removal and get drying equipment on-site before the damage spreads further into your walls and subfloor.
