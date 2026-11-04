@@ -68,7 +68,7 @@ For a flood loss, that typically means an itemized inventory for the insurance a
 
 The single best way to get an accurate number for your specific loss is a written scope from a crew that documents the water line, the affected materials, and the square footage before any demolition starts, since every flood loss is different and a number on a blog post can't account for your floor plan. For flood and [water damage restoration](/services/water-damage-restoration/) in the Houston area, [call BIONIC Emergency Services at (713) 338-2424](tel:+17133382424) for a free evaluation before you sign anything with your adjuster.
 
-Getting that documentation started quickly also protects the claim itself: insurers expect homeowners to mitigate further damage promptly, and photos of the waterline, the flood cut, and the removed materials are what turn a disputed claim into an approved one.
+Getting that documentation started quickly also protects the claim itself: insurers expect homeowners to mitigate further damage promptly, and photos of the waterline, the flood cut, and the removed materials give your adjuster the documentation they need and help support your claim.
 
 ---
 
