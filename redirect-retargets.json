@@ -1,0 +1,8 @@
+{
+ "/mold-remediation": {
+  "planned": "/services/mold-remediation/",
+  "now": "/services/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
