@@ -17,7 +17,7 @@ service_slug: "flood-damage-restoration"
 service_display: "Flood Damage Restoration"
 rendered: true
 ---
-**Flood damage in Houston?** Call now for emergency service at (713) 338-2424. Floodwater from an overflowing bayou, a failed sump pump, or a storm surge backing up through the slab behaves differently than a clean supply-line break, and treating it the same way is how homes end up with hidden contamination weeks later.
+**Flood damage in Houston?** Call now for emergency service at (713) 338-2424. Floodwater from an overflowing bayou, storm surge, or surface water flowing in from outside behaves differently than a clean supply-line break, and treating it the same way is how homes end up with hidden contamination weeks later.
 
 Floodwater from outside is Category 3 water, meaning it has picked up soil, sewage, or chemical runoff on its way into the structure. That changes everything about how the job gets scoped, what materials can be saved, and what has to come out.
 
