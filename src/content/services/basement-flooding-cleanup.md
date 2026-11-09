@@ -37,7 +37,7 @@ The most common mistake is drying to the surface and stopping early. Concrete an
 
 ## What does basement flooding cleanup cost?
 
-Costs vary with how much standing water was present, how long it sat, and whether the water was clean, gray, or contaminated by sewage. Every loss gets a written scope before work begins, since the right number depends on square footage, what materials were affected, and drying time, not a flat rate. Most homeowners insurance policies cover sudden water damage from a burst pipe or appliance failure, but sewer or drain backups and sump pump failures are usually covered only with a water backup endorsement, gradual seepage is typically excluded, and flooding or rising groundwater needs a separate flood policy, so check your policy language, so it's worth checking your policy language before assuming coverage.
+Costs vary with how much standing water was present, how long it sat, and whether the water was clean, gray, or contaminated by sewage. Every loss gets a written scope before work begins, since the right number depends on square footage, what materials were affected, and drying time, not a flat rate. Most homeowners insurance policies cover sudden water damage from a burst pipe or appliance failure, but sewer or drain backups and sump pump failures are usually covered only with a water backup endorsement, gradual seepage is typically excluded, and flooding or rising groundwater needs a separate flood policy, so it's worth checking your policy language before assuming coverage.
 
 | Scenario | Typical range |
 |---|---|
