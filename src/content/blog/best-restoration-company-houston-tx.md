@@ -30,7 +30,7 @@ The right company carries current general liability insurance, employs technicia
 
 Specific things worth confirming before you hire anyone:
 
-Insured, with proof available on request
+- Insured, with proof available on request
 - Technicians holding IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) credentials, not just general cleaning experience
 - 24/7 live phone dispatch, not a voicemail queue
 - Experience with Houston-specific risk, from bayou-adjacent flooding in neighborhoods like the Heights and Meyerland to slab leaks tied to the region's shifting clay soil
