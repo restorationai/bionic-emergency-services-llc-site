@@ -65,7 +65,7 @@ A few questions that separate serious companies from the rest: Do they bill insu
 
 ## Who should you call first after water, fire, or storm damage hits your Houston home?
 
-Call a restoration company with 24/7 live dispatch before you call a general contractor or try to handle it yourself, because stopping active damage in the first hours protects both your home and your insurance claim. BIONIC Emergency Services answers that call around the clock across Houston and the surrounding area, from Sugar Land to the Woodlands, with technicians trained to the IICRC WRT and ASD standards for [water](/services/water-damage-restoration/), [fire](/services/fire-damage-restoration/), and [storm](/services/storm-damage-restoration/) losses.
+Call a restoration company with 24/7 live dispatch before you call a general contractor or try to handle it yourself, because stopping active damage in the first hours protects both your home and your insurance claim. BIONIC Emergency Services answers that call around the clock across Houston and the surrounding area, from Sugar Land to the Woodlands, with IICRC WRT and ASD certified technicians for water losses, plus response for [water](/services/water-damage-restoration/), [fire](/services/fire-damage-restoration/), and [storm](/services/storm-damage-restoration/) damage.
 
 The documentation from that first call, photos, moisture readings, a written scope, becomes the backbone of your insurance claim later, so it's worth getting it right from the first phone call rather than the third.
 
@@ -75,6 +75,6 @@ If you're dealing with active damage right now, [request an assessment](/contact
 
 **About BIONIC Emergency Services**
 
-Founded in 2011, the company's technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and respond across the Houston area, from the Heights to Meyerland to Sugar Land, with 24/7 live dispatch. The insured team handles water damage, fire and smoke damage, storm damage, sewage cleanup, and contents restoration and storage under one roof, with a 4.9 average Google rating across 156 reviews.
+BIONIC Emergency Services was founded in 2011. Its technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and respond across the Houston area, from the Heights to Meyerland to Sugar Land, with 24/7 live dispatch. The insured team handles water damage, fire and smoke damage, storm damage, sewage cleanup, and contents restoration and storage under one roof, with a 4.9 average Google rating across 156 reviews.
 
 **Need help now?** [Call BIONIC Emergency Services at (713) 338-2424](tel:+17133382424).
