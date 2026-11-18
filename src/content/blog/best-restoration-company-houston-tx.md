@@ -55,7 +55,7 @@ At minimum, ask for:
 3. Line-item pricing that matches standard restoration estimating software, since that's what most adjusters compare against
 4. Clear language on who submits documentation to your insurer and when
 
-If a company can't produce something like this in writing before work starts, that's worth pausing on. Our longer breakdown on vetting specifically for water losses, [the five best water damage restoration companies in Houston](/blog/best-water-damage-restoration-company-in-houston-tx/), walks through how to compare quotes line by line.
+If a company can't produce something like this in writing before work starts, that's worth pausing on. Our comparison of [the five best water damage restoration companies in Houston](/blog/best-water-damage-restoration-company-in-houston-tx/) covers which certifications and documentation to ask about.
 
 ## How do you compare restoration companies across Houston?
 
