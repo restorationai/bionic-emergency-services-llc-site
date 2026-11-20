@@ -28,7 +28,7 @@ If a supply line let go overnight in your Midtown office building, or a backup f
 
 A commercial-ready contractor can show four things before a technician ever opens a drywall panel: trained and certified technicians, true around-the-clock response, active licensing and insurance, and a history of jobs bigger than a single bathroom or bedroom.
 
-BIONIC's technicians hold IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) certifications, which means they've trained specifically on how water moves through different building materials and how to dry a structure according to the drying science in the [ANSI/IICRC S500 standard](https://iicrc.org/s500/). BIONIC has been responding to Houston-area water losses since 2011, is insured, and answers calls 24/7, which matters when a line breaks at 2 a.m. In a building with a restaurant on the ground floor and residential units above it.
+BIONIC's technicians hold IICRC Water Damage Restoration (WRT) and Applied Structural Drying (ASD) certifications, which means they've trained specifically on how water moves through different building materials and how to dry a structure according to the drying science in the [ANSI/IICRC S500 standard](https://iicrc.org/s500/). BIONIC has been responding to Houston-area water losses since 2011, is insured, and answers calls 24/7, which matters when a line breaks at 2 a.m. in a building with a restaurant on the ground floor and residential units above it.
 
 Ask any contractor you're considering for proof of technician certifications, proof of insurance, and a sample of a commercial scope they've written. If they can't produce a sample scope, they haven't done many of these jobs.
 
