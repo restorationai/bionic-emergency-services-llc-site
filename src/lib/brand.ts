@@ -13,6 +13,10 @@ export const brand = {
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
   dbaName: "BIONIC Emergency Services - 24/7 Emergency Water & Fire Damage Restoration",
+  // Brand name as text beside the header logo (Santino 2026-11-21): set
+  // ONLY by the rename flow (header_name_rollout.py) from the Citations
+  // Building stage on. false = logo only.
+  headerName: true,
   domain: "bionic24365.com",
   canonicalUrl: "https://bionic24365.com",
   phone: "(713) 338-2424",
