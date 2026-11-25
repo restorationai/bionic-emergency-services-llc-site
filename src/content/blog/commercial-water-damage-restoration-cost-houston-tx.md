@@ -47,7 +47,7 @@ Four things move a commercial water damage bill the most: how much square footag
 - **Water category.** Under the [ANSI/IICRC S500 standard](https://iicrc.org/s500/), Category 1 water (a clean supply line or sprinkler head) is the least expensive to remediate. Category 3 water, which includes sewage and any contaminated floodwater from the Ship Channel or a bayou overflow, requires antimicrobial treatment, PPE, and removal of porous materials like carpet and drywall rather than drying them in place.
 - **Wall and ceiling cavities.** Commercial buildings often have drop ceilings, metal stud cavities, and raised flooring that trap water out of sight. Moisture mapping with thermal imaging and penetrating meters adds labor hours before drying even starts.
 - **Equipment days.** Air movers and dehumidifiers are billed per unit, per day. A large open floor plan needs more units running longer than a single enclosed office.
-- **After-hours mobilization.** A loss discovered at 9 p.m. on a Saturday costs more to respond to than one reported during business hours, if your restoration company offers true 24/7 dispatch, confirm that before you need it.
+- **After-hours mobilization.** A loss discovered at 9 p.m. on a Saturday costs more to respond to than one reported during business hours. If you're counting on true 24/7 dispatch, confirm your restoration company offers it before you need it.
 
 ![What Drives the Cost Up or Down: commercial water damage restoration cost houston](https://images.bionic24365.com/blog/2026/11/commercial-water-damage-restoration-cost-houston-tx/section.webp)
 
