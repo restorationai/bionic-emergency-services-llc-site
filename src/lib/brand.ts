@@ -86,6 +86,8 @@ export const brand = {
   trustBadges: ["Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://maps.google.com/maps?cid=8687357031602970747", "https://www.yelp.com/biz/bionic-emergency-services-houston", "https://www.bbb.org/us/tx/houston/profile/water-damage-restoration/bionic-emergency-services-0915-90037265"] as string[],
+  credentials: [{"name": "IICRC WRT (Water)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "WRT"}, {"name": "IICRC ASD (Structural Drying)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "ASD"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "IICRC-certified technicians (WRT, ASD)"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
